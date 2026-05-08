@@ -1,1 +1,1 @@
-# ai-engineering-session01
+# ai-engineering-course
