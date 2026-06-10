@@ -1,5 +1,0 @@
-feature,type,rationale,leakage_check,caveat
-tenure_band,binning,Captures customer lifecycle stage.,Uses signup/tenure known before prediction.,Bins may hide differences inside a band.
-usage_per_active_day,ratio,"Measures usage intensity, not just total usage.",Uses recent pre-prediction usage window.,Missing or zero active days need careful handling.
-low_usage_high_tickets_flag,interaction,Combines weak adoption and support friction.,Uses pre-prediction tickets and usage.,"May reflect service-quality issues, not customer intent."
-mentions_price_issue,text-derived flag,Captures price concern from account notes.,Only safe if note exists before prediction.,Manual notes can be inconsistent or biased.
