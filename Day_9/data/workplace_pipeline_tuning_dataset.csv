@@ -1,0 +1,851 @@
+request_id,request_channel,service_area,request_type,customer_segment,priority_at_submission,request_age_hours_at_triage,previous_tickets_90d,open_items_for_team,staff_available,attachments_count,has_clear_description,historical_team_delay_rate,requester_tenure_months,day_of_week,sla_breach_risk,post_resolution_hours_DO_NOT_USE,final_status_DO_NOT_USE
+REQ-10000,Email,Facilities,Policy query,Key client,Low,7.5,2,44,11,4,1,0.095,73.0,Mon,1,58.3,Resolved late
+REQ-10001,Email,HR,Policy query,Internal,Urgent,9.6,2,64,10,2,0,0.147,53.0,Fri,1,71.3,Resolved late
+REQ-10002,Chat,Data,Payroll,Key client,Standard,34.9,2,27,7,0,1,0.39,53.0,Wed,0,31.3,Auto closed
+REQ-10003,Chat,Facilities,Data report,External supplier,Urgent,20.5,1,42,7,1,1,0.275,10.0,Mon,0,35.7,Auto closed
+REQ-10004,Email,IT,Procurement,Internal,Urgent,4.6,2,51,2,2,1,0.373,27.0,Mon,1,61.4,Resolved late
+REQ-10005,Portal,Data,Policy query,Key client,Standard,4.5,0,39,7,0,1,0.702,30.0,Thu,0,32.8,Resolved on time
+REQ-10006,Phone,Facilities,Access,Internal,Standard,18.5,4,58,5,1,1,0.298,19.0,Thu,1,58.7,Resolved late
+REQ-10007,Chat,Facilities,Payroll,Internal,Low,6.3,4,36,8,1,1,0.225,48.0,Wed,0,37.1,Resolved on time
+REQ-10008,Portal,IT,System issue,Internal,Standard,21.1,0,71,8,1,1,0.279,44.0,Wed,1,65.6,Escalated late
+REQ-10009,Portal,Finance,Hardware,Internal,Low,22.6,1,72,9,0,1,0.294,52.0,Mon,1,76.1,Resolved late
+REQ-10010,Phone,HR,System issue,Key client,Standard,8.2,0,46,10,2,1,0.354,59.0,Mon,1,56.4,Resolved late
+REQ-10011,Phone,Data,Payroll,Key client,Low,10.0,3,50,7,1,0,0.296,58.0,Wed,1,69.7,Resolved late
+REQ-10012,Phone,Facilities,Policy query,Partner,Standard,18.9,3,59,12,2,0,,116.0,Tue,1,60.4,Resolved late
+REQ-10013,Portal,Data,System issue,Internal,Low,7.9,1,25,8,0,0,0.248,35.0,Tue,0,41.5,Resolved on time
+REQ-10014,Email,Finance,Hardware,Key client,Standard,15.8,0,24,5,0,1,0.728,32.0,Tue,1,58.7,Escalated late
+REQ-10015,Chat,IT,System issue,Internal,Low,58.3,0,60,6,3,1,,47.0,Thu,1,63.4,Escalated late
+REQ-10016,Chat,Finance,Payroll,Internal,Standard,19.5,5,46,7,2,0,0.15,65.0,Tue,1,64.6,Resolved late
+REQ-10017,Phone,IT,Data report,Internal,Standard,11.3,3,39,9,1,1,0.15,13.0,Tue,0,25.8,Resolved on time
+REQ-10018,Email,Data,Data report,Key client,Low,52.2,0,42,6,0,1,0.368,23.0,Tue,1,52.0,Resolved late
+REQ-10019,Email,Facilities,System issue,External supplier,Urgent,25.8,1,9,7,1,1,0.194,26.0,Thu,0,31.9,Resolved on time
+REQ-10020,Phone,Facilities,Access,Internal,Urgent,6.4,1,39,7,1,1,0.477,37.0,Mon,1,75.2,Resolved late
+REQ-10021,Email,HR,Hardware,Key client,Standard,7.5,0,31,7,0,1,0.153,27.0,Fri,0,34.8,Resolved on time
+REQ-10022,Chat,Data,System issue,Partner,Standard,3.2,0,55,9,0,1,0.098,60.0,Wed,1,77.2,Escalated late
+REQ-10023,Portal,Data,Data report,Partner,Standard,18.7,3,56,9,0,1,,40.0,Tue,1,65.2,Resolved late
+REQ-10024,Phone,Facilities,Procurement,Key client,Low,2.0,0,50,10,0,0,0.502,33.0,Thu,1,56.2,Escalated late
+REQ-10025,Chat,IT,Access,Key client,Standard,52.2,1,48,7,1,1,0.112,,Fri,0,33.0,Resolved on time
+REQ-10026,Portal,Finance,Payroll,Key client,Low,12.3,0,21,10,0,1,0.433,11.0,Mon,0,36.9,Resolved on time
+REQ-10027,Email,IT,System issue,Partner,Urgent,26.9,3,50,5,0,1,0.395,44.0,Tue,0,43.3,Resolved on time
+REQ-10028,Portal,IT,Access,Internal,Urgent,11.5,1,51,5,1,1,0.519,21.0,Mon,1,47.9,Escalated late
+REQ-10029,Portal,Facilities,Payroll,External supplier,Standard,18.5,1,59,5,2,1,0.494,54.0,Mon,1,52.3,Escalated late
+REQ-10030,Portal,Facilities,Policy query,Internal,Standard,13.5,1,72,8,0,0,0.216,12.0,Thu,1,72.0,Resolved late
+REQ-10031,Portal,Data,Access,Partner,Standard,15.5,1,18,10,2,1,0.361,,Mon,0,35.5,Resolved on time
+REQ-10032,Chat,HR,System issue,Internal,Urgent,32.4,0,37,6,2,1,0.403,22.0,Tue,1,70.0,Escalated late
+REQ-10033,Portal,HR,Hardware,Internal,Low,42.7,0,32,7,1,0,0.515,,Fri,0,76.9,Resolved on time
+REQ-10034,Email,Finance,System issue,Internal,Low,40.6,0,44,7,0,1,0.072,14.0,Thu,1,64.8,Resolved late
+REQ-10035,Portal,IT,System issue,Internal,Standard,72.0,4,42,9,1,1,0.137,36.0,Thu,1,49.1,Escalated late
+REQ-10036,Portal,IT,System issue,Internal,Standard,8.6,0,39,7,0,1,0.206,50.0,Mon,1,59.3,Resolved late
+REQ-10037,Email,Finance,Hardware,Internal,Standard,19.7,1,56,6,0,1,0.269,42.0,Fri,1,50.1,Resolved late
+REQ-10038,Email,IT,Procurement,Internal,Low,8.8,2,27,5,2,1,0.584,42.0,Mon,0,25.0,Resolved on time
+REQ-10039,Phone,Facilities,System issue,Internal,Standard,31.6,1,27,6,2,1,0.372,17.0,Thu,1,69.1,Resolved late
+REQ-10040,Email,HR,Hardware,Partner,Low,6.7,1,28,10,1,1,0.263,16.0,Thu,0,24.2,Resolved on time
+REQ-10041,Chat,Data,Hardware,External supplier,Low,32.8,0,37,8,2,1,0.353,41.0,Wed,0,40.3,Resolved on time
+REQ-10042,Email,Facilities,Access,Key client,Low,17.3,0,25,6,2,1,0.384,38.0,Fri,1,87.0,Resolved late
+REQ-10043,Email,HR,Policy query,Internal,Standard,14.1,3,41,10,3,0,0.315,20.0,Fri,0,48.8,Resolved on time
+REQ-10044,Phone,Data,System issue,Internal,Urgent,15.3,0,40,6,0,0,0.445,19.0,Mon,0,26.3,Auto closed
+REQ-10045,Chat,Facilities,Data report,External supplier,Standard,5.7,1,31,10,3,1,0.207,34.0,Fri,0,30.1,Resolved on time
+REQ-10046,Email,HR,System issue,Internal,Standard,6.2,0,54,10,0,0,0.45,29.0,Tue,1,75.5,Resolved late
+REQ-10047,Email,HR,Procurement,Internal,Standard,17.5,1,41,8,0,0,0.092,86.0,Thu,1,72.9,Resolved late
+REQ-10048,Email,Facilities,Procurement,External supplier,Standard,17.4,0,57,5,1,1,0.21,,Fri,1,53.2,Resolved late
+REQ-10049,Portal,IT,Procurement,External supplier,Standard,9.1,2,39,12,2,1,0.657,53.0,Wed,1,55.0,Resolved late
+REQ-10050,Portal,IT,Data report,Internal,Standard,12.2,2,42,8,1,1,0.463,71.0,Fri,0,58.0,Resolved on time
+REQ-10051,Email,IT,Hardware,Key client,Standard,20.9,0,34,7,0,1,0.498,25.0,Fri,0,30.2,Resolved on time
+REQ-10052,Email,Facilities,System issue,Internal,Low,7.9,3,42,9,1,1,0.386,27.0,Wed,1,50.6,Resolved late
+REQ-10053,Portal,Facilities,System issue,Partner,Low,2.9,0,52,9,0,1,0.427,62.0,Mon,1,85.9,Resolved late
+REQ-10054,Chat,Facilities,Payroll,Internal,Urgent,38.3,2,36,10,0,0,0.506,36.0,Wed,0,66.8,Resolved on time
+REQ-10055,Portal,Facilities,Data report,Internal,Standard,18.4,1,49,6,0,1,0.281,37.0,Fri,0,46.3,Resolved on time
+REQ-10056,Portal,Finance,Access,Key client,Urgent,10.4,5,31,8,2,1,0.203,18.0,Tue,0,31.0,Resolved on time
+REQ-10057,Email,Finance,Policy query,,Urgent,8.7,1,53,5,1,0,0.185,61.0,Fri,0,30.0,Resolved on time
+REQ-10058,Email,IT,Policy query,Key client,Low,7.8,0,34,9,1,0,0.425,47.0,Mon,0,30.4,Resolved on time
+REQ-10059,Email,IT,Policy query,Internal,Standard,31.5,1,54,7,1,0,0.097,31.0,Thu,1,80.4,Resolved late
+REQ-10060,Phone,Facilities,Payroll,External supplier,Standard,4.9,3,43,8,1,1,0.391,27.0,Thu,0,65.0,Resolved on time
+REQ-10061,Chat,Finance,Access,Partner,Standard,19.7,0,63,7,1,1,0.536,66.0,Mon,1,50.9,Resolved late
+REQ-10062,Chat,Finance,Hardware,Internal,Low,19.7,1,26,7,1,1,0.18,25.0,Wed,0,49.1,Resolved on time
+REQ-10063,Chat,Facilities,Access,Partner,Standard,25.0,0,21,6,2,1,0.213,15.0,Mon,0,21.9,Resolved on time
+REQ-10064,Chat,Facilities,Access,Internal,Standard,11.2,2,33,9,0,1,0.375,68.0,Tue,0,23.0,Resolved on time
+REQ-10065,Chat,Finance,Access,Internal,Standard,36.2,0,23,10,1,0,0.133,68.0,Fri,0,32.6,Resolved on time
+REQ-10066,Email,Finance,Policy query,Internal,Standard,25.5,1,23,6,1,1,,25.0,Mon,0,28.9,Resolved on time
+REQ-10067,Email,HR,Access,Partner,Standard,10.9,0,51,9,1,1,0.387,94.0,Fri,0,28.4,Resolved on time
+REQ-10068,Email,IT,Access,Partner,Standard,8.4,1,42,8,0,1,0.272,34.0,Thu,1,76.0,Resolved late
+REQ-10069,Portal,HR,System issue,External supplier,Urgent,13.6,1,35,8,1,1,0.409,25.0,Thu,0,22.9,Resolved on time
+REQ-10070,Email,IT,Data report,External supplier,Standard,10.6,1,37,4,0,1,0.509,47.0,Tue,0,35.7,Resolved on time
+REQ-10071,Chat,HR,System issue,External supplier,Standard,7.3,1,34,5,3,1,0.154,17.0,Fri,0,32.7,Auto closed
+REQ-10072,Portal,Data,Data report,Internal,Standard,15.8,1,65,6,2,1,0.423,21.0,Tue,1,59.4,Resolved late
+REQ-10073,Portal,IT,System issue,External supplier,Standard,12.3,0,32,3,0,0,0.249,41.0,Wed,1,52.8,Resolved late
+REQ-10074,Email,IT,Data report,Key client,Standard,41.8,1,23,10,3,1,0.341,38.0,Mon,1,48.3,Escalated late
+REQ-10075,Email,HR,Procurement,,Standard,10.6,0,53,8,3,1,0.156,56.0,Fri,1,62.5,Resolved late
+REQ-10076,Email,HR,System issue,Key client,Standard,8.3,0,39,7,0,0,0.346,18.0,Thu,1,53.7,Resolved late
+REQ-10077,Chat,Facilities,Procurement,Internal,Urgent,15.0,3,71,3,2,1,0.228,86.0,Mon,1,58.1,Escalated late
+REQ-10078,Portal,Finance,Payroll,Internal,Urgent,18.0,2,35,4,2,1,0.332,29.0,Thu,1,51.5,Resolved late
+REQ-10079,Phone,Facilities,Procurement,Internal,Standard,18.9,2,54,7,0,1,0.264,37.0,Mon,1,49.4,Escalated late
+REQ-10080,Email,Facilities,Access,Internal,Standard,18.8,1,57,11,1,1,0.339,28.0,Wed,1,70.6,Resolved late
+REQ-10081,Portal,HR,System issue,Internal,Standard,15.4,0,35,6,2,1,0.491,17.0,Wed,1,80.9,Resolved late
+REQ-10082,Portal,Facilities,Hardware,External supplier,Urgent,14.6,1,32,9,0,1,0.476,35.0,Fri,1,52.7,Escalated late
+REQ-10083,Phone,IT,Access,Key client,Standard,22.7,0,52,7,0,1,0.431,50.0,Tue,1,55.7,Resolved late
+REQ-10084,Phone,IT,Hardware,Internal,Standard,6.8,3,50,8,1,1,0.289,32.0,Mon,1,53.0,Resolved late
+REQ-10085,Email,IT,System issue,Internal,Standard,8.4,3,22,10,0,1,0.279,22.0,Wed,1,54.7,Resolved late
+REQ-10086,Chat,Facilities,Payroll,Internal,Standard,3.8,1,26,7,1,0,,57.0,Fri,0,46.0,Auto closed
+REQ-10087,Email,Finance,Data report,Internal,Standard,6.9,3,8,6,1,0,0.248,58.0,Thu,0,22.4,Auto closed
+REQ-10088,Chat,IT,System issue,Partner,Low,29.5,1,50,10,0,1,0.454,31.0,Mon,0,38.6,Resolved on time
+REQ-10089,Email,Finance,Access,Internal,Standard,22.0,3,38,8,0,1,0.547,43.0,Mon,0,52.7,Resolved on time
+REQ-10090,Email,IT,System issue,Key client,Standard,45.4,1,40,10,2,1,0.464,57.0,Thu,1,69.1,Resolved late
+REQ-10091,Chat,Facilities,Hardware,Partner,Low,38.6,3,18,6,2,1,0.096,50.0,Thu,1,65.1,Resolved late
+REQ-10092,Email,Finance,Hardware,Key client,Urgent,22.2,2,27,10,2,1,0.132,42.0,Wed,0,28.8,Resolved on time
+REQ-10093,Portal,HR,Data report,Partner,Standard,16.7,3,35,8,1,0,0.235,49.0,Mon,1,58.4,Escalated late
+REQ-10094,Portal,HR,Policy query,Internal,Low,15.3,0,33,8,0,1,0.645,44.0,Tue,0,45.1,Resolved on time
+REQ-10095,Email,Facilities,Hardware,External supplier,Standard,1.9,1,44,8,0,1,0.096,36.0,Fri,1,67.7,Resolved late
+REQ-10096,Phone,HR,Data report,Key client,Standard,14.1,2,50,6,3,1,0.386,18.0,Mon,1,59.5,Resolved late
+REQ-10097,Chat,IT,Hardware,Partner,Standard,9.6,2,74,7,2,0,0.284,21.0,Tue,1,52.9,Resolved late
+REQ-10098,Chat,IT,Procurement,Key client,Standard,7.1,2,42,7,0,1,0.328,,Wed,0,27.0,Auto closed
+REQ-10099,Email,Data,Data report,Partner,Urgent,19.8,0,58,9,1,1,0.363,28.0,Thu,1,66.3,Resolved late
+REQ-10100,Portal,Data,Data report,External supplier,Standard,12.9,2,30,7,2,0,0.136,,Fri,0,24.6,Resolved on time
+REQ-10101,Email,Facilities,Data report,Internal,Standard,15.9,0,19,5,3,1,0.186,18.0,Wed,0,32.0,Resolved on time
+REQ-10102,Email,HR,Access,Partner,Low,6.3,1,37,4,2,1,0.354,24.0,Wed,1,68.1,Resolved late
+REQ-10103,Email,Data,System issue,Partner,Standard,26.2,2,20,4,1,1,0.287,32.0,Tue,1,50.1,Resolved late
+REQ-10104,Chat,Facilities,Data report,Internal,Standard,10.6,1,42,9,1,1,0.43,9.0,Mon,0,40.7,Resolved on time
+REQ-10105,Chat,Facilities,Data report,External supplier,Standard,19.1,2,31,5,0,1,0.25,22.0,Tue,0,22.8,Resolved on time
+REQ-10106,Phone,Finance,Access,Internal,Standard,11.2,1,15,8,1,1,0.628,25.0,Tue,1,67.5,Resolved late
+REQ-10107,Portal,HR,Procurement,Key client,Standard,1.5,0,66,8,0,1,0.286,39.0,Mon,0,40.8,Resolved on time
+REQ-10108,Portal,IT,Payroll,Internal,Standard,20.4,1,34,7,1,1,0.452,31.0,Thu,0,46.9,Resolved on time
+REQ-10109,Portal,Data,Access,Internal,Low,13.5,1,19,8,0,0,0.166,40.0,Tue,0,34.0,Resolved on time
+REQ-10110,Portal,Finance,Hardware,Partner,Urgent,3.6,1,55,8,2,1,0.203,37.0,Wed,1,58.5,Escalated late
+REQ-10111,Portal,IT,Procurement,Internal,Standard,5.6,1,32,2,1,0,0.409,31.0,Tue,0,22.8,Resolved on time
+REQ-10112,Email,HR,System issue,Internal,Urgent,26.7,3,57,7,1,0,0.271,25.0,Wed,1,50.0,Escalated late
+REQ-10113,Email,Finance,Hardware,Internal,Urgent,3.7,1,32,8,2,1,0.324,37.0,Mon,0,31.7,Resolved on time
+REQ-10114,Chat,IT,System issue,Internal,Urgent,10.3,2,34,11,0,1,0.796,65.0,Thu,1,67.7,Resolved late
+REQ-10115,Portal,Data,Procurement,Partner,Standard,47.9,2,47,11,0,1,0.369,25.0,Thu,1,53.8,Resolved late
+REQ-10116,Chat,Facilities,System issue,External supplier,Standard,20.7,0,50,5,0,1,0.277,84.0,Tue,0,41.0,Resolved on time
+REQ-10117,Email,Facilities,Procurement,Internal,Low,24.3,1,53,7,4,1,0.452,38.0,Tue,1,61.2,Resolved late
+REQ-10118,Portal,HR,Procurement,Key client,Standard,12.0,0,41,4,1,1,0.379,55.0,Thu,0,29.3,Auto closed
+REQ-10119,Email,Facilities,Data report,Internal,Standard,3.3,3,49,11,1,1,0.409,43.0,Tue,1,64.6,Resolved late
+REQ-10120,Email,Finance,Policy query,Key client,Standard,17.0,1,52,10,1,1,0.248,46.0,Mon,1,61.6,Resolved late
+REQ-10121,Email,Facilities,Procurement,Internal,Urgent,6.0,1,45,8,0,1,0.225,22.0,Tue,1,62.7,Resolved late
+REQ-10122,Email,IT,Procurement,Internal,Low,5.5,3,40,8,1,0,0.12,28.0,Fri,0,38.1,Resolved on time
+REQ-10123,Chat,HR,Data report,Internal,Standard,15.7,1,22,10,0,1,0.194,13.0,Wed,0,40.9,Resolved on time
+REQ-10124,Email,IT,System issue,Key client,Standard,6.4,1,50,10,0,1,0.326,32.0,Tue,1,55.6,Resolved late
+REQ-10125,Portal,Finance,Access,Internal,Standard,14.4,0,43,10,1,1,0.443,48.0,Wed,0,22.7,Resolved on time
+REQ-10126,Portal,HR,Procurement,Internal,Low,8.6,3,36,8,2,1,0.544,32.0,Tue,1,61.1,Resolved late
+REQ-10127,Portal,IT,Procurement,Partner,Low,14.1,1,60,7,0,1,0.037,56.0,Thu,0,27.8,Resolved on time
+REQ-10128,Portal,IT,Policy query,Partner,Urgent,9.8,0,22,9,0,1,0.072,29.0,Wed,0,58.7,Resolved on time
+REQ-10129,Email,Finance,Procurement,Internal,Standard,14.3,1,65,9,0,1,0.084,24.0,Wed,0,32.1,Resolved on time
+REQ-10130,Chat,IT,Procurement,Partner,Low,36.6,1,42,7,2,1,0.477,27.0,Wed,1,65.1,Resolved late
+REQ-10131,Phone,Data,Policy query,Partner,Low,24.7,0,46,7,0,1,0.395,51.0,Wed,1,49.5,Resolved late
+REQ-10132,Phone,Finance,Procurement,Internal,Standard,13.2,1,36,10,2,0,0.29,75.0,Wed,0,45.4,Resolved on time
+REQ-10133,Portal,HR,Hardware,Key client,Low,32.9,2,19,11,0,0,0.227,88.0,Tue,1,58.0,Resolved late
+REQ-10134,Email,Finance,Hardware,Internal,Standard,19.3,1,40,6,1,1,0.355,48.0,Fri,1,50.8,Resolved late
+REQ-10135,Chat,IT,Access,Partner,Standard,31.5,1,47,7,2,1,0.207,55.0,Tue,1,72.7,Resolved late
+REQ-10136,Portal,Data,Access,Internal,Low,4.2,2,51,8,1,1,0.106,15.0,Fri,0,30.3,Resolved on time
+REQ-10137,Email,Finance,Procurement,Key client,Standard,6.4,3,39,8,0,1,0.623,18.0,Thu,0,42.1,Resolved on time
+REQ-10138,Portal,Facilities,System issue,Internal,Low,16.9,3,11,6,0,1,0.302,22.0,Wed,1,89.4,Resolved late
+REQ-10139,Phone,IT,System issue,Internal,Standard,13.0,3,20,11,1,1,0.167,67.0,Tue,0,21.9,Resolved on time
+REQ-10140,Portal,Finance,Access,External supplier,Urgent,14.4,1,71,8,0,0,0.244,66.0,Wed,1,53.4,Resolved late
+REQ-10141,Phone,Finance,Data report,Internal,Standard,21.5,2,27,9,1,1,0.441,98.0,Fri,0,39.4,Resolved on time
+REQ-10142,Phone,Data,Access,External supplier,Urgent,17.0,1,62,11,2,1,0.402,22.0,Mon,1,58.9,Escalated late
+REQ-10143,Email,Finance,Policy query,External supplier,Low,26.2,2,29,7,2,1,0.181,34.0,Wed,0,19.4,Resolved on time
+REQ-10144,Chat,Finance,Access,External supplier,Standard,25.8,1,39,7,4,1,0.202,,Thu,1,55.9,Resolved late
+REQ-10145,Portal,HR,Data report,Internal,Standard,6.7,2,51,5,1,1,0.541,16.0,Thu,1,57.1,Escalated late
+REQ-10146,Portal,HR,Payroll,Partner,Standard,1.6,2,31,7,1,0,0.353,30.0,Mon,0,30.4,Resolved on time
+REQ-10147,Email,Finance,Data report,Internal,Urgent,6.3,2,64,5,1,1,0.389,23.0,Wed,1,53.2,Resolved late
+REQ-10148,Chat,HR,Payroll,Internal,Low,6.0,0,43,9,1,1,0.194,23.0,Mon,0,49.8,Resolved on time
+REQ-10149,Email,IT,System issue,,Urgent,15.1,2,48,8,2,1,0.09,26.0,Fri,1,49.5,Resolved late
+REQ-10150,Email,Data,Hardware,Key client,Urgent,15.0,1,38,7,0,0,0.246,70.0,Tue,0,34.7,Resolved on time
+REQ-10151,Portal,Data,Policy query,Internal,Standard,12.4,2,51,7,0,1,0.313,60.0,Wed,1,54.6,Escalated late
+REQ-10152,Email,IT,Procurement,Internal,Standard,19.8,1,64,9,1,1,0.407,20.0,Fri,1,54.1,Resolved late
+REQ-10153,Email,Finance,System issue,Partner,Standard,61.4,2,40,5,1,1,,59.0,Wed,1,75.2,Resolved late
+REQ-10154,Portal,IT,System issue,Key client,Standard,12.2,2,66,8,0,1,0.049,24.0,Mon,1,56.6,Escalated late
+REQ-10155,Portal,Facilities,Policy query,Internal,Standard,17.4,1,33,9,1,0,0.368,15.0,Fri,1,62.8,Escalated late
+REQ-10156,Chat,HR,Hardware,External supplier,Standard,14.4,4,53,4,4,0,0.336,25.0,Thu,1,68.3,Resolved late
+REQ-10157,Email,Facilities,Hardware,Internal,Urgent,9.2,1,49,9,2,0,0.146,41.0,Thu,1,59.3,Resolved late
+REQ-10158,Phone,Facilities,Hardware,,Standard,21.6,3,27,4,1,0,0.345,,Mon,1,75.4,Escalated late
+REQ-10159,Portal,Facilities,Hardware,Key client,Standard,11.7,3,45,7,0,1,,,Wed,1,50.4,Resolved late
+REQ-10160,Portal,IT,Data report,External supplier,Standard,7.7,1,42,5,2,1,0.522,26.0,Wed,1,63.4,Resolved late
+REQ-10161,Portal,Data,Policy query,Internal,Standard,8.1,2,30,10,1,1,0.56,43.0,Tue,0,58.9,Resolved on time
+REQ-10162,Portal,IT,Policy query,Internal,Urgent,26.9,1,47,5,2,1,0.181,20.0,Wed,1,62.5,Resolved late
+REQ-10163,Chat,IT,Procurement,Internal,Low,21.3,2,44,4,2,1,0.389,36.0,Tue,1,48.8,Resolved late
+REQ-10164,Portal,Finance,Data report,Partner,Urgent,10.0,2,41,8,0,1,0.06,22.0,Wed,0,35.8,Resolved on time
+REQ-10165,Email,HR,System issue,Internal,Standard,19.6,0,41,7,0,1,0.259,31.0,Fri,1,78.6,Resolved late
+REQ-10166,Phone,Data,Policy query,Internal,Urgent,14.5,3,41,4,4,1,0.299,85.0,Thu,0,28.0,Auto closed
+REQ-10167,Chat,Facilities,Hardware,External supplier,Standard,17.6,2,37,9,0,1,0.36,28.0,Tue,1,55.9,Resolved late
+REQ-10168,Email,HR,Procurement,Internal,Urgent,9.0,0,44,4,1,0,0.416,17.0,Tue,0,38.8,Resolved on time
+REQ-10169,Portal,Data,System issue,Key client,Standard,6.1,2,33,5,0,1,0.366,37.0,Mon,1,64.5,Resolved late
+REQ-10170,Chat,HR,Hardware,Internal,Standard,11.7,3,79,6,0,1,0.192,37.0,Tue,1,59.7,Resolved late
+REQ-10171,Phone,Finance,Procurement,Partner,Low,7.1,1,22,9,3,0,0.239,37.0,Mon,0,25.6,Resolved on time
+REQ-10172,Chat,IT,Policy query,Internal,Standard,6.6,1,34,10,1,0,0.277,46.0,Mon,0,27.2,Resolved on time
+REQ-10173,Portal,Data,Policy query,Internal,Standard,4.4,0,35,10,0,1,,27.0,Fri,1,51.9,Resolved late
+REQ-10174,Portal,IT,Policy query,Internal,Standard,1.6,1,71,7,5,0,0.782,49.0,Fri,1,48.5,Resolved late
+REQ-10175,Email,IT,System issue,Partner,Standard,10.1,0,24,3,0,1,0.481,35.0,Wed,1,73.4,Resolved late
+REQ-10176,Chat,HR,Hardware,Partner,Standard,30.2,1,48,8,2,1,0.199,17.0,Thu,0,39.6,Auto closed
+REQ-10177,Portal,Data,Payroll,Internal,Low,25.4,0,45,10,1,1,0.403,52.0,Wed,1,66.2,Resolved late
+REQ-10178,Phone,Data,Procurement,Internal,Standard,40.2,3,47,10,0,1,0.06,38.0,Thu,0,38.0,Resolved on time
+REQ-10179,Portal,Facilities,Data report,External supplier,Low,6.4,2,59,8,1,1,0.272,47.0,Fri,1,57.3,Resolved late
+REQ-10180,Portal,Data,Procurement,Internal,Standard,22.6,0,59,5,2,1,0.161,18.0,Mon,1,56.3,Escalated late
+REQ-10181,Phone,Data,Data report,Internal,Standard,13.2,0,36,6,1,1,0.304,53.0,Tue,0,22.9,Resolved on time
+REQ-10182,Portal,Finance,Payroll,Key client,Standard,8.2,1,45,11,0,1,0.328,96.0,Mon,1,68.8,Resolved late
+REQ-10183,Chat,HR,System issue,Internal,Standard,28.0,2,16,5,0,1,0.38,17.0,Thu,1,101.9,Resolved late
+REQ-10184,Portal,Facilities,Payroll,Internal,Urgent,13.3,1,43,5,0,1,0.383,57.0,Fri,1,63.3,Resolved late
+REQ-10185,Portal,Facilities,Payroll,Internal,Standard,2.9,0,31,9,0,1,,39.0,Thu,0,42.9,Resolved on time
+REQ-10186,Portal,HR,Access,Internal,Standard,25.3,3,39,7,0,1,0.102,,Thu,1,70.9,Escalated late
+REQ-10187,Portal,IT,Hardware,Internal,Standard,18.7,0,18,5,0,0,0.244,54.0,Wed,1,79.9,Resolved late
+REQ-10188,Portal,Facilities,System issue,,Standard,15.8,1,48,11,0,0,0.329,51.0,Mon,1,52.8,Escalated late
+REQ-10189,Email,HR,Procurement,Key client,Standard,5.4,2,18,8,1,1,0.239,64.0,Thu,0,21.6,Resolved on time
+REQ-10190,Email,Data,Hardware,Internal,Standard,17.1,3,44,7,2,1,0.289,18.0,Fri,1,61.1,Escalated late
+REQ-10191,Phone,IT,System issue,Partner,Standard,36.7,0,25,5,2,1,0.244,65.0,Fri,1,58.1,Escalated late
+REQ-10192,Portal,IT,Procurement,Internal,Standard,18.3,0,30,12,0,0,0.287,42.0,Tue,0,71.0,Resolved on time
+REQ-10193,Phone,Data,Access,Partner,Low,3.8,1,58,7,2,1,0.272,13.0,Tue,1,52.0,Escalated late
+REQ-10194,Email,IT,Payroll,Internal,Low,19.3,0,50,10,0,1,0.026,28.0,Thu,0,58.5,Auto closed
+REQ-10195,Email,IT,Access,Partner,Urgent,18.5,1,58,9,0,1,0.557,39.0,Mon,0,30.1,Resolved on time
+REQ-10196,Email,Finance,Data report,Internal,Urgent,23.8,0,64,6,1,1,0.185,,Mon,1,51.4,Resolved late
+REQ-10197,Phone,Data,Hardware,Internal,Urgent,18.1,2,31,6,0,1,0.202,33.0,Fri,1,81.9,Escalated late
+REQ-10198,Chat,IT,Access,,Urgent,6.7,1,63,10,2,1,0.552,26.0,Fri,1,52.9,Escalated late
+REQ-10199,Email,HR,Access,Internal,Standard,15.2,2,21,10,0,1,0.14,81.0,Wed,0,43.0,Resolved on time
+REQ-10200,Phone,Facilities,Data report,Internal,Standard,11.9,3,52,4,1,1,0.13,121.0,Wed,0,33.4,Resolved on time
+REQ-10201,Email,Data,Access,Key client,Low,16.5,0,35,9,2,1,0.374,49.0,Wed,0,58.5,Resolved on time
+REQ-10202,Email,Finance,System issue,Partner,Standard,28.7,2,29,7,1,1,0.191,37.0,Mon,1,74.4,Resolved late
+REQ-10203,Email,IT,Access,Internal,Low,8.6,1,51,5,1,0,0.298,20.0,Tue,1,57.9,Resolved late
+REQ-10204,Email,IT,Data report,External supplier,Urgent,44.1,1,55,8,1,1,0.266,64.0,Tue,1,82.1,Resolved late
+REQ-10205,Phone,IT,Procurement,Partner,Low,19.2,1,55,5,1,0,0.462,46.0,Fri,1,64.8,Resolved late
+REQ-10206,Chat,IT,Procurement,Partner,Low,25.4,3,45,7,1,1,0.123,21.0,Wed,1,59.9,Escalated late
+REQ-10207,Email,Facilities,Access,,Low,23.1,1,44,6,1,0,0.424,21.0,Thu,1,61.2,Resolved late
+REQ-10208,Portal,IT,System issue,Key client,Low,18.7,2,49,7,4,0,0.335,33.0,Mon,0,43.6,Resolved on time
+REQ-10209,Phone,Finance,Policy query,Internal,Low,21.1,2,46,7,1,0,0.201,37.0,Fri,1,57.5,Resolved late
+REQ-10210,Chat,Facilities,Access,Key client,Standard,0.5,3,50,5,1,0,0.026,48.0,Fri,1,55.3,Resolved late
+REQ-10211,Portal,Finance,Access,External supplier,Standard,23.1,3,45,11,0,1,0.13,34.0,Wed,0,25.7,Resolved on time
+REQ-10212,Email,IT,Policy query,Internal,Standard,7.1,0,54,8,1,1,0.051,50.0,Tue,0,35.2,Auto closed
+REQ-10213,Portal,Facilities,Procurement,Internal,Urgent,13.8,2,19,11,1,1,0.413,28.0,Fri,1,54.1,Resolved late
+REQ-10214,Email,Facilities,Access,Internal,Standard,18.6,2,40,7,3,1,0.349,34.0,Fri,1,71.8,Escalated late
+REQ-10215,Chat,Facilities,Hardware,External supplier,Standard,29.5,4,23,6,0,0,0.638,66.0,Wed,1,57.3,Escalated late
+REQ-10216,Portal,IT,Data report,Internal,Standard,7.1,1,46,11,0,1,0.303,52.0,Tue,1,65.8,Escalated late
+REQ-10217,Phone,IT,System issue,Key client,Low,10.3,2,65,6,0,1,0.127,35.0,Thu,1,75.5,Resolved late
+REQ-10218,Email,Data,Data report,Partner,Standard,11.4,1,35,7,1,0,0.34,42.0,Tue,0,52.5,Resolved on time
+REQ-10219,Portal,HR,Policy query,External supplier,Urgent,16.6,1,44,9,0,1,0.318,34.0,Thu,0,34.0,Resolved on time
+REQ-10220,Chat,HR,Procurement,Internal,Standard,11.9,1,53,5,0,1,0.374,16.0,Fri,1,48.2,Resolved late
+REQ-10221,Portal,Finance,Hardware,Partner,Low,21.2,1,13,9,1,1,0.284,7.0,Wed,0,20.3,Resolved on time
+REQ-10222,Portal,Facilities,Procurement,External supplier,Standard,3.0,2,35,9,0,1,0.45,77.0,Mon,0,43.4,Resolved on time
+REQ-10223,Chat,Data,Payroll,Internal,Urgent,13.1,2,47,10,1,0,0.206,22.0,Wed,1,52.5,Resolved late
+REQ-10224,Chat,HR,Hardware,Partner,Standard,39.0,1,8,9,1,1,0.339,29.0,Fri,0,28.9,Resolved on time
+REQ-10225,Email,Data,Access,Internal,Standard,12.0,3,28,10,3,1,0.219,110.0,Tue,1,73.8,Escalated late
+REQ-10226,Portal,IT,Payroll,,Urgent,19.3,0,57,7,1,1,0.262,20.0,Fri,1,55.3,Resolved late
+REQ-10227,Portal,Finance,System issue,Internal,Standard,26.6,1,56,6,2,1,0.227,33.0,Tue,0,22.9,Resolved on time
+REQ-10228,Portal,Facilities,Access,Internal,Standard,18.8,2,47,12,1,1,0.324,68.0,Thu,0,29.2,Resolved on time
+REQ-10229,Email,IT,Procurement,Internal,Low,46.6,0,54,4,0,0,0.353,85.0,Thu,1,68.3,Resolved late
+REQ-10230,Email,IT,Data report,Internal,Low,15.4,2,45,5,1,1,0.376,45.0,Mon,1,55.2,Resolved late
+REQ-10231,Chat,HR,Data report,Internal,Urgent,21.9,0,50,9,1,1,0.208,65.0,Mon,1,66.4,Escalated late
+REQ-10232,Chat,Data,System issue,,Standard,17.1,0,38,11,2,1,0.294,32.0,Fri,0,23.0,Auto closed
+REQ-10233,Chat,Finance,System issue,Internal,Standard,34.1,2,44,8,1,1,0.244,7.0,Thu,1,53.5,Resolved late
+REQ-10234,Chat,Data,System issue,Internal,Standard,10.7,0,33,9,0,1,0.145,62.0,Thu,0,29.3,Auto closed
+REQ-10235,Phone,Facilities,Access,Key client,Low,49.0,1,60,4,3,1,0.192,35.0,Tue,1,76.2,Resolved late
+REQ-10236,Phone,Finance,Procurement,Key client,Standard,8.8,2,63,7,3,1,0.351,30.0,Mon,0,28.1,Auto closed
+REQ-10237,Phone,Facilities,Data report,Internal,Low,41.4,0,61,4,0,0,0.547,28.0,Tue,1,55.0,Escalated late
+REQ-10238,Portal,IT,Hardware,External supplier,Standard,6.4,1,36,9,0,1,0.148,50.0,Wed,0,27.1,Resolved on time
+REQ-10239,Portal,IT,Access,Internal,Standard,22.4,0,29,4,1,1,0.254,50.0,Thu,1,66.4,Escalated late
+REQ-10240,Email,Data,Hardware,Partner,Low,14.5,2,60,5,1,1,0.514,36.0,Tue,1,69.7,Resolved late
+REQ-10241,Portal,Facilities,Procurement,Internal,Low,26.2,1,50,9,0,1,0.147,44.0,Tue,0,47.3,Auto closed
+REQ-10242,Email,IT,Payroll,Partner,Standard,19.6,2,47,10,1,1,0.199,19.0,Tue,1,90.4,Resolved late
+REQ-10243,Email,Finance,Access,External supplier,Low,25.3,1,33,7,1,1,0.351,32.0,Fri,1,63.3,Resolved late
+REQ-10244,Portal,Finance,System issue,Partner,Low,6.2,2,48,9,1,1,0.345,20.0,Thu,0,26.2,Resolved on time
+REQ-10245,Portal,Data,Policy query,Key client,Standard,3.5,1,27,9,0,1,0.677,19.0,Fri,0,30.4,Resolved on time
+REQ-10246,Email,Finance,Hardware,Key client,Standard,5.4,1,51,7,0,1,0.283,42.0,Mon,1,52.8,Resolved late
+REQ-10247,Phone,HR,Policy query,Internal,Standard,5.3,0,61,5,0,1,0.31,37.0,Wed,1,61.2,Resolved late
+REQ-10248,Chat,HR,Access,Key client,Low,6.2,2,65,9,1,1,0.288,28.0,Wed,0,25.7,Resolved on time
+REQ-10249,Email,HR,Policy query,Partner,Urgent,9.2,1,52,9,1,1,0.32,31.0,Wed,0,47.2,Resolved on time
+REQ-10250,Email,Facilities,Policy query,External supplier,Standard,9.2,1,23,9,1,1,0.064,44.0,Tue,1,62.4,Escalated late
+REQ-10251,Email,Data,Access,Internal,Low,14.7,0,45,8,4,1,0.341,50.0,Mon,0,53.1,Resolved on time
+REQ-10252,Phone,Finance,System issue,Internal,Standard,7.5,3,72,5,1,0,0.277,46.0,Mon,1,69.2,Escalated late
+REQ-10253,Phone,IT,Policy query,Key client,Low,8.0,3,30,9,2,1,0.536,13.0,Thu,1,67.9,Resolved late
+REQ-10254,Email,IT,Policy query,Internal,Standard,12.5,2,41,7,3,1,0.204,9.0,Wed,1,50.8,Resolved late
+REQ-10255,Phone,Facilities,Policy query,Internal,Low,28.6,2,62,7,0,1,0.222,23.0,Mon,0,38.3,Resolved on time
+REQ-10256,Email,Facilities,Procurement,Internal,Low,10.6,6,51,7,0,1,0.546,9.0,Tue,0,61.9,Resolved on time
+REQ-10257,Portal,IT,Access,Partner,Standard,14.0,1,77,6,1,1,0.11,72.0,Fri,1,56.3,Escalated late
+REQ-10258,Chat,IT,System issue,Internal,Urgent,15.7,0,32,9,0,1,,31.0,Wed,1,72.5,Resolved late
+REQ-10259,Email,Finance,Data report,Internal,Low,6.8,3,28,5,1,1,0.15,17.0,Fri,0,21.7,Resolved on time
+REQ-10260,Email,IT,Data report,Internal,Low,11.3,2,59,6,3,1,0.393,30.0,Mon,0,24.0,Resolved on time
+REQ-10261,Portal,Data,Payroll,External supplier,Urgent,8.6,2,25,7,0,0,0.153,11.0,Mon,0,31.1,Resolved on time
+REQ-10262,Portal,HR,Data report,Key client,Urgent,26.9,1,39,11,0,1,0.294,17.0,Wed,1,55.2,Resolved late
+REQ-10263,Chat,IT,Access,Internal,Standard,25.4,1,41,10,2,1,0.108,29.0,Thu,1,53.6,Resolved late
+REQ-10264,Chat,Data,System issue,Internal,Low,7.9,0,57,4,3,1,0.102,27.0,Fri,1,55.2,Escalated late
+REQ-10265,Email,IT,Access,Key client,Standard,13.8,1,51,10,1,1,0.544,29.0,Wed,1,64.9,Resolved late
+REQ-10266,Email,HR,System issue,Internal,Low,21.9,1,48,10,0,1,0.19,45.0,Tue,0,44.7,Resolved on time
+REQ-10267,Phone,IT,System issue,Key client,Low,18.2,1,36,5,3,1,0.342,57.0,Wed,1,65.9,Resolved late
+REQ-10268,Email,IT,Procurement,Internal,Standard,19.5,0,59,2,0,1,0.307,38.0,Tue,1,66.7,Resolved late
+REQ-10269,Chat,IT,Procurement,External supplier,Standard,6.8,0,90,7,2,1,0.381,58.0,Mon,1,59.4,Escalated late
+REQ-10270,Phone,IT,Payroll,Internal,Standard,40.4,1,52,10,0,1,0.258,27.0,Mon,1,51.9,Resolved late
+REQ-10271,Email,IT,Policy query,Key client,Standard,9.1,1,43,11,2,1,0.268,62.0,Thu,0,30.7,Resolved on time
+REQ-10272,Phone,IT,System issue,Internal,Standard,8.9,1,24,6,2,1,0.526,38.0,Thu,0,33.5,Resolved on time
+REQ-10273,Email,Finance,Payroll,External supplier,Standard,4.8,2,33,11,2,0,0.547,54.0,Mon,1,73.4,Escalated late
+REQ-10274,Portal,Facilities,Access,External supplier,Standard,12.9,1,39,3,2,1,0.327,27.0,Wed,0,56.6,Resolved on time
+REQ-10275,Portal,HR,Hardware,Partner,Urgent,30.6,1,35,7,0,1,0.199,37.0,Fri,0,35.9,Resolved on time
+REQ-10276,Portal,HR,Procurement,Internal,Standard,18.0,1,42,7,1,1,0.345,91.0,Fri,0,43.7,Resolved on time
+REQ-10277,Phone,Finance,Policy query,Internal,Standard,13.6,3,67,10,0,1,0.132,37.0,Wed,1,47.8,Resolved late
+REQ-10278,Portal,Data,System issue,Partner,Low,24.2,2,59,10,1,1,0.368,56.0,Mon,1,57.2,Resolved late
+REQ-10279,Chat,Data,Hardware,Partner,Low,30.1,3,40,9,3,1,0.569,60.0,Thu,0,31.4,Resolved on time
+REQ-10280,Chat,IT,System issue,Internal,Standard,25.4,0,25,5,2,1,0.252,48.0,Wed,1,65.6,Resolved late
+REQ-10281,Portal,IT,Payroll,Internal,Low,2.6,2,61,9,2,1,0.667,53.0,Fri,1,85.2,Resolved late
+REQ-10282,Email,IT,System issue,Internal,Standard,24.3,0,41,9,1,0,0.313,27.0,Wed,1,63.2,Resolved late
+REQ-10283,Phone,IT,Hardware,Partner,Standard,20.0,1,18,4,0,0,0.405,23.0,Thu,1,49.3,Escalated late
+REQ-10284,Chat,Finance,Data report,Key client,Low,7.7,1,52,3,0,1,0.453,20.0,Wed,1,66.9,Resolved late
+REQ-10285,Email,HR,Policy query,Key client,Low,20.1,0,56,10,0,0,0.284,44.0,Wed,1,56.6,Resolved late
+REQ-10286,Portal,IT,Hardware,Key client,Standard,30.6,0,8,7,1,0,0.135,36.0,Tue,0,37.6,Resolved on time
+REQ-10287,Portal,HR,System issue,Internal,Urgent,9.4,0,30,5,1,1,0.253,42.0,Wed,1,68.0,Resolved late
+REQ-10288,Email,Finance,Policy query,Internal,Standard,26.6,2,40,7,1,1,0.344,18.0,Tue,1,49.1,Escalated late
+REQ-10289,Phone,IT,Access,Internal,Standard,18.3,3,52,8,0,1,0.549,25.0,Wed,0,30.9,Resolved on time
+REQ-10290,Portal,Data,Access,Partner,Low,0.5,1,35,7,3,1,0.237,56.0,Fri,1,59.3,Escalated late
+REQ-10291,Phone,IT,Data report,Internal,Standard,14.4,3,30,4,3,1,0.341,39.0,Tue,0,35.0,Resolved on time
+REQ-10292,Phone,Data,Payroll,Internal,Low,17.8,1,52,11,2,1,0.502,38.0,Wed,0,26.1,Resolved on time
+REQ-10293,Phone,IT,Access,Internal,Standard,11.7,1,35,10,1,0,0.279,32.0,Fri,0,24.4,Resolved on time
+REQ-10294,Portal,Data,Procurement,Internal,Standard,18.8,3,50,7,1,1,0.611,23.0,Mon,1,84.8,Escalated late
+REQ-10295,Email,Data,System issue,Key client,Standard,13.3,2,26,7,0,0,0.236,63.0,Tue,1,61.9,Resolved late
+REQ-10296,Phone,Data,Hardware,Internal,Standard,55.3,1,23,8,1,1,0.106,68.0,Wed,1,53.0,Resolved late
+REQ-10297,Phone,Facilities,Payroll,Internal,Low,11.1,1,53,5,2,1,0.316,37.0,Wed,1,55.3,Escalated late
+REQ-10298,Portal,Facilities,System issue,Partner,Low,7.9,2,46,8,1,1,0.178,12.0,Tue,1,85.9,Escalated late
+REQ-10299,Chat,Facilities,Procurement,Internal,Standard,25.7,3,55,5,3,1,0.157,34.0,Thu,0,48.7,Resolved on time
+REQ-10300,Email,Facilities,System issue,Internal,Urgent,12.2,1,35,7,0,1,0.33,71.0,Wed,1,54.6,Resolved late
+REQ-10301,Chat,IT,Procurement,Internal,Low,13.8,3,31,5,1,1,0.275,25.0,Tue,1,52.0,Escalated late
+REQ-10302,Email,Finance,Policy query,Partner,Standard,13.0,1,61,5,0,1,0.615,28.0,Wed,1,52.3,Resolved late
+REQ-10303,Email,Finance,Data report,Internal,Standard,24.8,0,21,11,2,1,0.135,54.0,Fri,0,46.7,Resolved on time
+REQ-10304,Portal,Data,Access,Partner,Low,6.1,3,60,8,1,1,0.158,28.0,Fri,1,56.1,Resolved late
+REQ-10305,Email,Finance,System issue,External supplier,Low,26.5,1,60,8,0,1,0.466,36.0,Tue,1,50.1,Resolved late
+REQ-10306,Email,HR,Procurement,Key client,Standard,21.2,2,54,3,0,1,0.121,10.0,Mon,1,55.6,Escalated late
+REQ-10307,Email,Facilities,Access,,Standard,44.2,2,32,6,0,1,0.355,69.0,Mon,1,62.9,Escalated late
+REQ-10308,Portal,HR,Access,Partner,Standard,16.8,1,31,8,2,0,0.133,52.0,Wed,0,30.8,Resolved on time
+REQ-10309,Phone,IT,Data report,Internal,Standard,6.5,0,39,8,0,1,0.469,61.0,Thu,0,49.1,Auto closed
+REQ-10310,Email,Finance,Access,Internal,Urgent,17.0,2,24,3,1,0,0.234,22.0,Mon,0,35.1,Resolved on time
+REQ-10311,Portal,HR,Hardware,Internal,Standard,18.5,0,29,8,2,1,0.226,77.0,Wed,0,36.6,Resolved on time
+REQ-10312,Phone,IT,Access,Internal,Urgent,32.4,2,51,8,2,1,0.243,34.0,Tue,1,70.7,Resolved late
+REQ-10313,Email,HR,Procurement,Internal,Standard,6.5,4,51,10,2,0,0.275,64.0,Fri,1,69.9,Resolved late
+REQ-10314,Email,HR,Payroll,Internal,Urgent,3.8,1,27,6,0,0,0.111,43.0,Thu,1,55.5,Resolved late
+REQ-10315,Chat,HR,Procurement,Internal,Urgent,17.2,1,51,3,3,1,0.2,53.0,Wed,1,52.1,Escalated late
+REQ-10316,Phone,HR,Hardware,Internal,Standard,45.4,0,48,6,1,1,0.086,45.0,Wed,1,62.2,Resolved late
+REQ-10317,Portal,Facilities,Access,Key client,Standard,23.3,1,63,5,0,1,0.135,28.0,Mon,0,32.7,Resolved on time
+REQ-10318,Phone,HR,Data report,External supplier,Urgent,24.2,0,50,9,2,1,,14.0,Wed,1,63.1,Resolved late
+REQ-10319,Email,Data,Payroll,Internal,Standard,4.7,1,57,2,1,0,0.247,66.0,Tue,1,64.1,Resolved late
+REQ-10320,Portal,Data,Data report,,Standard,15.3,3,49,7,1,1,0.57,,Mon,0,55.0,Auto closed
+REQ-10321,Phone,Finance,Access,Internal,Standard,32.8,1,56,10,0,1,0.121,56.0,Tue,1,57.5,Resolved late
+REQ-10322,Email,HR,Access,,Urgent,18.6,1,24,8,0,1,0.585,66.0,Thu,0,36.6,Resolved on time
+REQ-10323,Phone,Finance,Hardware,Internal,Standard,3.6,2,40,9,3,1,0.309,16.0,Wed,0,24.0,Resolved on time
+REQ-10324,Portal,Data,Procurement,Internal,Standard,15.1,1,41,4,1,1,0.483,29.0,Fri,1,53.6,Escalated late
+REQ-10325,Phone,Facilities,Payroll,Internal,Standard,22.2,0,39,4,0,1,0.289,15.0,Tue,1,60.1,Resolved late
+REQ-10326,Portal,Facilities,System issue,Internal,Urgent,13.9,0,48,10,1,0,0.527,26.0,Thu,1,52.8,Resolved late
+REQ-10327,Portal,Finance,Payroll,Internal,Low,7.2,0,51,8,2,1,0.445,61.0,Wed,0,39.1,Resolved on time
+REQ-10328,Email,Facilities,Procurement,Internal,Standard,26.2,0,47,8,0,1,0.242,53.0,Fri,0,37.1,Resolved on time
+REQ-10329,Email,HR,Data report,Internal,Standard,10.7,2,40,5,1,1,0.125,49.0,Fri,1,54.7,Resolved late
+REQ-10330,Phone,Facilities,Access,Internal,Urgent,19.9,1,32,8,0,1,0.07,29.0,Thu,1,58.0,Resolved late
+REQ-10331,Email,IT,Procurement,Internal,Urgent,14.8,1,57,5,1,1,0.322,8.0,Wed,1,74.9,Resolved late
+REQ-10332,Email,Facilities,Payroll,Key client,Standard,10.4,2,47,10,1,1,0.214,18.0,Wed,1,62.0,Resolved late
+REQ-10333,Email,Data,Payroll,Internal,Standard,48.6,3,28,13,0,0,0.394,32.0,Thu,0,68.4,Resolved on time
+REQ-10334,Email,IT,Access,Key client,Low,9.5,0,39,8,2,0,0.61,20.0,Fri,1,58.1,Resolved late
+REQ-10335,Phone,Finance,System issue,Internal,Urgent,15.7,3,18,6,0,0,0.387,57.0,Tue,1,59.0,Resolved late
+REQ-10336,Portal,IT,Policy query,Internal,Low,14.7,3,42,2,1,0,0.136,78.0,Fri,1,60.1,Escalated late
+REQ-10337,Chat,Facilities,Access,External supplier,Standard,16.9,1,39,4,1,1,0.187,43.0,Fri,1,49.7,Resolved late
+REQ-10338,Email,IT,Data report,Internal,Standard,46.4,3,34,11,1,1,0.3,16.0,Mon,0,30.6,Resolved on time
+REQ-10339,Portal,Data,System issue,Internal,Standard,22.2,1,64,5,3,1,0.499,67.0,Tue,0,30.3,Resolved on time
+REQ-10340,Portal,IT,Hardware,Internal,Low,10.4,1,26,7,2,0,0.301,38.0,Tue,0,40.4,Auto closed
+REQ-10341,Portal,Data,System issue,,Low,37.4,2,52,9,1,1,0.465,36.0,Wed,1,75.6,Resolved late
+REQ-10342,Chat,Facilities,Data report,,Urgent,24.8,1,73,10,1,1,0.137,47.0,Tue,1,57.3,Escalated late
+REQ-10343,Chat,Finance,Policy query,Key client,Standard,10.5,2,57,7,0,1,0.199,18.0,Tue,1,48.2,Resolved late
+REQ-10344,Chat,Facilities,Policy query,External supplier,Low,33.8,3,42,7,0,1,0.517,29.0,Mon,1,61.6,Escalated late
+REQ-10345,Email,Facilities,Access,Internal,Standard,4.7,1,26,8,3,1,0.229,34.0,Mon,1,52.7,Escalated late
+REQ-10346,Email,Data,Procurement,External supplier,Low,5.9,2,23,6,1,1,0.337,41.0,Wed,1,62.5,Escalated late
+REQ-10347,Portal,IT,Procurement,Internal,Urgent,3.3,1,36,6,1,1,0.511,43.0,Tue,1,62.2,Resolved late
+REQ-10348,Email,Finance,Access,Key client,Standard,2.0,1,32,8,1,1,0.197,47.0,Wed,1,54.2,Resolved late
+REQ-10349,Phone,IT,Payroll,Internal,Low,32.3,2,32,8,2,0,0.235,26.0,Tue,0,33.7,Resolved on time
+REQ-10350,Portal,Finance,Policy query,Internal,Low,17.1,3,37,12,1,1,0.155,13.0,Tue,0,22.2,Resolved on time
+REQ-10351,Portal,IT,Access,External supplier,Standard,3.6,3,41,8,1,1,0.296,32.0,Fri,1,63.2,Resolved late
+REQ-10352,Phone,Finance,Procurement,Internal,Standard,14.5,1,49,10,0,1,,34.0,Fri,0,41.7,Resolved on time
+REQ-10353,Phone,Finance,System issue,External supplier,Standard,27.1,0,25,5,1,1,0.444,12.0,Tue,1,65.7,Resolved late
+REQ-10354,Email,Finance,Payroll,Internal,Standard,8.2,1,32,9,0,0,0.338,25.0,Mon,0,27.7,Auto closed
+REQ-10355,Email,Finance,Procurement,Key client,Standard,11.7,1,40,6,3,1,0.311,39.0,Fri,1,68.6,Escalated late
+REQ-10356,Portal,Facilities,Policy query,External supplier,Low,50.1,0,39,8,0,0,,27.0,Thu,1,67.0,Escalated late
+REQ-10357,Portal,Facilities,Procurement,Internal,Low,12.5,4,68,9,1,1,0.113,38.0,Wed,1,67.6,Resolved late
+REQ-10358,Email,Finance,Access,External supplier,Urgent,4.0,2,45,8,0,1,0.434,27.0,Thu,1,77.9,Resolved late
+REQ-10359,Portal,Finance,Access,Key client,Low,9.9,3,19,12,2,0,0.337,49.0,Tue,0,36.3,Resolved on time
+REQ-10360,Phone,Data,Policy query,Key client,Urgent,3.4,1,48,10,2,1,0.24,21.0,Wed,0,24.2,Auto closed
+REQ-10361,Phone,IT,Hardware,Internal,Standard,23.5,2,50,10,1,0,0.351,36.0,Tue,1,53.1,Escalated late
+REQ-10362,Portal,IT,Procurement,Internal,Low,7.3,0,40,9,0,1,0.174,37.0,Thu,0,36.3,Resolved on time
+REQ-10363,Portal,IT,Access,Key client,Low,7.1,6,25,11,2,1,0.354,55.0,Mon,1,49.2,Resolved late
+REQ-10364,Email,Facilities,Payroll,Internal,Low,53.0,1,67,5,2,1,0.513,30.0,Wed,1,58.5,Escalated late
+REQ-10365,Portal,HR,Policy query,Internal,Standard,5.4,0,27,10,2,1,0.303,77.0,Fri,0,28.9,Resolved on time
+REQ-10366,Email,Facilities,Procurement,Internal,Standard,4.5,1,51,6,3,0,0.252,76.0,Mon,1,66.6,Escalated late
+REQ-10367,Portal,Facilities,Policy query,Partner,Standard,6.2,4,45,6,0,1,0.252,22.0,Mon,1,51.3,Resolved late
+REQ-10368,Phone,HR,Hardware,Internal,Standard,27.7,0,50,9,0,1,0.543,35.0,Fri,1,66.8,Resolved late
+REQ-10369,Email,Data,Procurement,Key client,Standard,21.4,1,66,10,3,1,0.191,17.0,Fri,1,58.0,Resolved late
+REQ-10370,Email,Facilities,System issue,,Urgent,9.8,1,50,5,0,1,0.253,46.0,Wed,1,63.5,Resolved late
+REQ-10371,Email,HR,Procurement,,Urgent,9.1,0,34,6,0,1,0.3,27.0,Mon,1,51.7,Escalated late
+REQ-10372,Chat,HR,Hardware,Internal,Standard,20.3,0,57,8,3,0,0.087,38.0,Wed,1,67.4,Escalated late
+REQ-10373,Portal,HR,System issue,Key client,Standard,17.5,1,33,7,2,1,0.267,31.0,Tue,1,72.4,Resolved late
+REQ-10374,Email,IT,Payroll,Internal,Standard,13.1,1,44,9,0,1,0.513,118.0,Wed,1,122.5,Resolved late
+REQ-10375,Chat,IT,Procurement,Key client,Standard,21.9,1,24,14,4,1,0.092,33.0,Mon,0,34.7,Resolved on time
+REQ-10376,Portal,Data,Policy query,Key client,Standard,5.8,0,28,8,0,1,0.187,32.0,Fri,0,43.8,Resolved on time
+REQ-10377,Portal,HR,Hardware,Key client,Low,7.4,3,43,6,2,1,0.208,57.0,Thu,0,24.8,Resolved on time
+REQ-10378,Chat,HR,Hardware,Internal,Standard,22.7,1,47,5,2,1,0.16,61.0,Thu,0,48.8,Resolved on time
+REQ-10379,Email,Facilities,Access,Key client,Urgent,18.6,0,18,7,2,1,0.158,41.0,Wed,0,22.5,Auto closed
+REQ-10380,Email,Finance,Payroll,Key client,Low,15.2,1,49,6,1,0,0.211,62.0,Tue,1,84.4,Escalated late
+REQ-10381,Portal,Data,Hardware,Internal,Urgent,51.8,1,31,8,0,1,0.522,108.0,Fri,1,61.7,Resolved late
+REQ-10382,Email,Facilities,Data report,Key client,Urgent,25.3,0,60,8,1,1,0.154,30.0,Tue,1,50.9,Resolved late
+REQ-10383,Phone,Finance,Hardware,External supplier,Low,10.0,0,37,7,4,0,0.153,18.0,Tue,0,29.1,Resolved on time
+REQ-10384,Email,HR,Data report,Key client,Standard,8.0,2,26,11,0,0,0.198,44.0,Fri,1,71.6,Escalated late
+REQ-10385,Email,Data,Hardware,,Urgent,19.2,3,43,6,1,0,0.627,59.0,Mon,1,58.7,Escalated late
+REQ-10386,Email,Facilities,Payroll,Internal,Urgent,32.2,2,29,7,2,1,0.368,74.0,Mon,1,58.5,Resolved late
+REQ-10387,Portal,Data,Payroll,Internal,Low,2.9,1,60,9,1,0,0.343,48.0,Thu,0,42.1,Resolved on time
+REQ-10388,Email,IT,System issue,Internal,Standard,18.2,0,42,9,1,0,0.512,36.0,Tue,1,59.4,Escalated late
+REQ-10389,Email,Data,Procurement,,Standard,11.5,0,40,10,1,0,0.215,23.0,Wed,0,47.6,Auto closed
+REQ-10390,Chat,Facilities,Payroll,External supplier,Low,17.1,0,50,8,2,1,0.26,66.0,Wed,1,55.5,Resolved late
+REQ-10391,Email,IT,System issue,Internal,Standard,4.2,1,28,10,0,0,0.064,42.0,Fri,1,49.4,Escalated late
+REQ-10392,Portal,Finance,Data report,Partner,Low,32.2,2,24,6,2,1,0.313,13.0,Thu,1,59.9,Resolved late
+REQ-10393,Email,Facilities,Hardware,Internal,Low,38.0,2,48,9,2,1,0.275,90.0,Wed,1,61.1,Resolved late
+REQ-10394,Portal,IT,Policy query,Internal,Standard,23.7,3,27,9,1,1,0.441,19.0,Wed,0,27.2,Resolved on time
+REQ-10395,Email,Finance,Payroll,Internal,Standard,43.0,3,27,11,0,1,0.144,60.0,Thu,0,35.2,Resolved on time
+REQ-10396,Portal,Data,Access,Internal,Standard,11.1,4,54,4,1,1,0.601,40.0,Tue,1,49.9,Escalated late
+REQ-10397,Email,HR,Procurement,Partner,Standard,17.9,1,49,6,2,1,0.634,13.0,Mon,1,63.5,Resolved late
+REQ-10398,Chat,Finance,Access,External supplier,Standard,24.0,3,24,9,1,1,0.216,34.0,Wed,1,52.0,Resolved late
+REQ-10399,Chat,Finance,Hardware,External supplier,Low,19.4,1,33,2,3,1,0.096,30.0,Fri,0,22.9,Auto closed
+REQ-10400,Email,HR,System issue,Internal,Low,12.2,0,29,8,0,1,0.249,15.0,Mon,0,32.8,Resolved on time
+REQ-10401,Email,Data,Access,Partner,Low,13.2,1,67,10,0,1,0.485,45.0,Mon,1,50.5,Resolved late
+REQ-10402,Email,Facilities,System issue,Internal,Standard,35.8,2,55,6,1,0,0.547,56.0,Fri,1,48.4,Escalated late
+REQ-10403,Portal,IT,Policy query,External supplier,Low,14.7,3,36,7,1,0,0.506,35.0,Fri,1,65.0,Escalated late
+REQ-10404,Email,Data,Data report,Internal,Low,31.0,3,50,5,1,1,0.537,30.0,Mon,1,52.5,Escalated late
+REQ-10405,Chat,Data,System issue,Internal,Low,14.1,1,23,6,2,1,0.136,47.0,Tue,0,38.3,Auto closed
+REQ-10406,Phone,HR,System issue,Internal,Standard,30.9,2,33,7,1,1,0.111,6.0,Thu,0,29.7,Resolved on time
+REQ-10407,Phone,Data,Policy query,Internal,Standard,15.8,2,43,6,2,0,0.166,28.0,Thu,0,32.8,Resolved on time
+REQ-10408,Portal,IT,Payroll,Internal,Urgent,22.6,5,48,6,2,1,0.451,29.0,Thu,0,43.9,Resolved on time
+REQ-10409,Chat,Data,Access,External supplier,Standard,8.8,2,41,7,1,0,0.474,36.0,Fri,0,36.4,Resolved on time
+REQ-10410,Email,Facilities,Procurement,Partner,Standard,17.9,1,45,7,5,0,0.437,15.0,Wed,1,66.6,Resolved late
+REQ-10411,Portal,Facilities,Procurement,External supplier,Low,8.9,2,43,11,0,1,0.3,11.0,Fri,0,38.1,Resolved on time
+REQ-10412,Email,IT,Access,Internal,Standard,10.9,0,40,7,2,1,0.091,20.0,Wed,0,26.6,Auto closed
+REQ-10413,Chat,Data,Data report,Key client,Low,11.6,1,38,8,1,1,0.197,45.0,Wed,1,63.8,Resolved late
+REQ-10414,Portal,IT,Access,Internal,Standard,13.1,0,36,6,0,1,0.421,29.0,Thu,1,53.2,Resolved late
+REQ-10415,Phone,IT,Policy query,Key client,Standard,28.6,2,45,6,1,1,0.173,20.0,Wed,1,63.9,Resolved late
+REQ-10416,Email,IT,Hardware,Internal,Standard,10.6,3,48,4,1,1,0.226,83.0,Thu,0,29.3,Auto closed
+REQ-10417,Chat,Facilities,Access,Internal,Low,16.6,1,45,4,0,1,0.407,30.0,Fri,0,30.9,Resolved on time
+REQ-10418,Portal,IT,Access,Key client,Standard,30.9,1,25,5,3,1,0.362,,Fri,0,53.8,Resolved on time
+REQ-10419,Portal,Data,Hardware,Internal,Urgent,22.3,1,28,8,2,1,0.36,66.0,Wed,1,65.6,Resolved late
+REQ-10420,Chat,Facilities,Hardware,Internal,Standard,3.0,4,48,10,2,1,0.356,39.0,Mon,1,55.1,Resolved late
+REQ-10421,Portal,IT,Access,Key client,Standard,4.1,1,63,4,0,1,0.343,47.0,Thu,1,49.9,Resolved late
+REQ-10422,Portal,IT,Hardware,Internal,Standard,19.6,2,44,6,2,1,0.445,23.0,Tue,1,61.1,Resolved late
+REQ-10423,Portal,IT,Hardware,External supplier,Low,10.2,0,36,5,0,0,0.183,37.0,Tue,1,50.3,Resolved late
+REQ-10424,Email,Finance,Payroll,Internal,Standard,3.5,0,45,7,3,1,0.285,78.0,Fri,0,56.6,Resolved on time
+REQ-10425,Email,Facilities,Payroll,Partner,Standard,9.6,0,26,10,3,1,0.169,44.0,Wed,0,31.2,Resolved on time
+REQ-10426,Email,IT,Payroll,Key client,Low,20.1,1,60,7,4,0,0.075,41.0,Thu,1,70.3,Resolved late
+REQ-10427,Email,Data,Payroll,Key client,Standard,11.5,4,45,7,0,0,0.284,32.0,Tue,1,51.1,Escalated late
+REQ-10428,Chat,IT,Access,Key client,Urgent,15.5,5,33,10,2,1,0.869,17.0,Thu,1,65.2,Escalated late
+REQ-10429,Portal,Facilities,Access,External supplier,Standard,12.3,3,40,8,0,1,0.302,62.0,Thu,1,73.5,Resolved late
+REQ-10430,Portal,Data,Hardware,Key client,Standard,8.5,0,35,6,1,1,0.215,35.0,Fri,0,38.3,Resolved on time
+REQ-10431,Portal,Facilities,System issue,,Standard,17.6,1,60,8,1,0,0.188,25.0,Mon,1,69.1,Resolved late
+REQ-10432,Portal,Facilities,Policy query,Internal,Standard,3.2,1,39,6,1,1,0.588,16.0,Wed,1,64.1,Resolved late
+REQ-10433,Portal,Data,Policy query,Key client,Standard,7.7,1,44,8,2,1,0.241,42.0,Wed,1,56.6,Resolved late
+REQ-10434,Chat,IT,Procurement,Internal,Standard,25.2,2,50,9,1,1,0.49,19.0,Wed,0,25.4,Resolved on time
+REQ-10435,Chat,IT,Procurement,Internal,Standard,4.2,0,32,5,3,1,0.257,62.0,Fri,1,54.3,Resolved late
+REQ-10436,Portal,IT,Payroll,Internal,Standard,14.9,3,45,8,1,1,0.101,25.0,Mon,1,85.2,Resolved late
+REQ-10437,Email,Finance,System issue,Key client,Low,10.8,1,46,7,0,1,0.428,38.0,Wed,1,62.1,Escalated late
+REQ-10438,Portal,Facilities,System issue,Internal,Standard,10.0,2,20,9,0,1,0.157,44.0,Tue,0,47.1,Resolved on time
+REQ-10439,Portal,Facilities,System issue,Key client,Standard,26.8,2,46,9,0,1,0.09,41.0,Fri,0,27.5,Resolved on time
+REQ-10440,Portal,Data,Policy query,Partner,Standard,30.4,0,41,8,0,1,0.471,56.0,Tue,0,40.3,Resolved on time
+REQ-10441,Portal,IT,Procurement,Partner,Standard,6.2,0,44,7,1,1,0.128,27.0,Tue,1,53.0,Resolved late
+REQ-10442,Portal,Facilities,System issue,Internal,Standard,13.2,0,42,9,3,1,0.305,36.0,Mon,0,29.9,Resolved on time
+REQ-10443,Email,IT,System issue,Key client,Standard,2.3,0,46,6,1,0,0.351,48.0,Wed,0,28.2,Resolved on time
+REQ-10444,Portal,HR,Hardware,Key client,Urgent,25.8,1,61,5,1,1,0.274,74.0,Mon,1,82.5,Resolved late
+REQ-10445,Portal,Facilities,Policy query,Internal,Standard,14.4,4,25,2,4,0,0.382,54.0,Wed,0,25.9,Resolved on time
+REQ-10446,Email,Data,Access,Key client,Standard,3.9,0,37,7,4,1,0.297,59.0,Tue,0,38.8,Auto closed
+REQ-10447,Email,Finance,Policy query,Internal,Standard,8.0,0,51,6,1,1,0.203,30.0,Wed,1,64.4,Resolved late
+REQ-10448,Phone,IT,System issue,,Low,5.7,3,49,8,0,1,0.263,44.0,Thu,0,23.5,Resolved on time
+REQ-10449,Portal,Finance,Access,Internal,Standard,7.6,1,48,4,1,1,0.237,69.0,Thu,1,75.2,Resolved late
+REQ-10450,Email,IT,Data report,Partner,Standard,2.6,1,81,6,1,1,0.269,35.0,Mon,1,77.3,Escalated late
+REQ-10451,Portal,Data,Access,Key client,Low,35.5,1,51,8,3,1,0.207,44.0,Mon,0,34.2,Auto closed
+REQ-10452,Phone,Facilities,System issue,Internal,Standard,6.4,0,58,5,0,0,0.479,14.0,Tue,1,60.5,Resolved late
+REQ-10453,Email,IT,System issue,Partner,Standard,14.9,2,38,8,1,1,0.117,51.0,Wed,0,21.3,Resolved on time
+REQ-10454,Phone,IT,Data report,Internal,Standard,20.0,1,28,6,2,1,0.56,41.0,Fri,0,22.9,Resolved on time
+REQ-10455,Chat,IT,System issue,,Low,30.4,0,38,7,3,1,0.164,49.0,Mon,1,57.7,Resolved late
+REQ-10456,Portal,Data,Access,Key client,Standard,15.3,0,52,9,1,1,0.367,31.0,Mon,1,53.2,Resolved late
+REQ-10457,Phone,Finance,Hardware,Internal,Standard,12.1,1,48,9,1,1,0.242,12.0,Thu,1,70.3,Escalated late
+REQ-10458,Email,Facilities,Payroll,Internal,Standard,15.7,2,48,8,2,1,0.51,52.0,Fri,1,50.7,Resolved late
+REQ-10459,Chat,Facilities,Access,Partner,Low,6.2,3,39,6,1,1,0.353,24.0,Fri,0,22.4,Resolved on time
+REQ-10460,Portal,Finance,Procurement,Internal,Standard,6.6,0,37,7,0,1,0.353,15.0,Wed,0,37.6,Resolved on time
+REQ-10461,Chat,IT,Hardware,External supplier,Low,11.9,1,39,9,0,0,0.277,39.0,Mon,0,35.6,Auto closed
+REQ-10462,Portal,Data,Payroll,Partner,Standard,1.7,2,52,5,0,1,0.21,79.0,Wed,0,33.4,Auto closed
+REQ-10463,Email,HR,Payroll,Key client,Standard,8.7,1,54,7,5,0,0.458,22.0,Wed,0,40.3,Resolved on time
+REQ-10464,Email,Finance,System issue,Internal,Urgent,10.3,4,28,7,1,1,0.539,25.0,Wed,1,54.9,Escalated late
+REQ-10465,Phone,Facilities,Hardware,Key client,Standard,47.1,3,53,7,2,0,0.442,53.0,Wed,1,56.6,Resolved late
+REQ-10466,Portal,Facilities,Policy query,External supplier,Standard,33.0,0,33,5,1,1,0.238,32.0,Wed,0,35.3,Resolved on time
+REQ-10467,Email,Data,Payroll,Internal,Low,19.9,1,49,4,1,1,0.641,52.0,Thu,1,62.1,Resolved late
+REQ-10468,Phone,IT,Payroll,Internal,Standard,26.2,4,39,9,2,0,0.388,31.0,Mon,1,53.6,Resolved late
+REQ-10469,Chat,Finance,Procurement,Internal,Standard,6.6,1,64,9,0,1,0.23,29.0,Mon,1,72.8,Resolved late
+REQ-10470,Portal,HR,Payroll,Internal,Standard,16.0,0,36,4,2,1,0.424,23.0,Mon,0,23.6,Resolved on time
+REQ-10471,Portal,Finance,Hardware,Partner,Low,24.1,0,45,8,2,0,0.532,42.0,Wed,1,57.2,Resolved late
+REQ-10472,Email,IT,Procurement,Internal,Low,6.6,1,50,10,0,1,0.557,23.0,Wed,1,52.0,Resolved late
+REQ-10473,Phone,IT,Access,Key client,Low,4.1,1,30,9,0,1,0.042,28.0,Thu,1,95.3,Resolved late
+REQ-10474,Email,HR,Payroll,Internal,Urgent,18.5,1,41,7,0,1,0.051,62.0,Wed,0,32.7,Resolved on time
+REQ-10475,Chat,HR,Data report,Internal,Standard,4.6,2,38,6,1,1,0.194,96.0,Wed,1,52.8,Resolved late
+REQ-10476,Portal,HR,Payroll,Internal,Low,21.2,0,35,8,1,0,0.187,45.0,Fri,1,56.3,Resolved late
+REQ-10477,Portal,Finance,System issue,Partner,Urgent,30.0,3,36,8,4,1,0.594,63.0,Thu,1,63.1,Resolved late
+REQ-10478,Email,Facilities,Hardware,Key client,Low,6.8,3,58,8,1,1,0.34,30.0,Thu,1,70.2,Resolved late
+REQ-10479,Email,HR,Policy query,Internal,Standard,7.2,0,34,7,2,1,0.224,32.0,Tue,0,25.3,Resolved on time
+REQ-10480,Phone,HR,System issue,Partner,Standard,29.5,2,50,5,0,0,0.297,40.0,Mon,1,78.3,Escalated late
+REQ-10481,Portal,IT,Policy query,Internal,Urgent,15.3,2,46,8,2,0,0.45,25.0,Fri,1,60.3,Resolved late
+REQ-10482,Portal,Finance,System issue,Internal,Standard,26.9,2,22,8,0,1,0.268,29.0,Wed,1,65.7,Resolved late
+REQ-10483,Chat,HR,Access,Internal,Standard,12.3,2,49,8,0,0,0.443,51.0,Mon,1,55.7,Resolved late
+REQ-10484,Chat,IT,Procurement,External supplier,Urgent,13.0,1,22,8,1,1,0.255,37.0,Wed,1,64.0,Resolved late
+REQ-10485,Chat,HR,Access,Key client,Low,15.0,1,51,11,0,0,0.35,34.0,Mon,1,55.2,Resolved late
+REQ-10486,Email,Finance,System issue,,Urgent,41.1,1,35,6,1,1,0.384,33.0,Fri,1,56.7,Resolved late
+REQ-10487,Portal,IT,Data report,Internal,Urgent,25.5,0,42,10,2,1,0.35,20.0,Wed,1,70.8,Escalated late
+REQ-10488,Chat,Finance,Hardware,Internal,Urgent,8.5,1,24,6,1,1,0.068,39.0,Thu,1,65.0,Escalated late
+REQ-10489,Portal,Finance,Policy query,Key client,Low,16.9,2,44,10,0,0,0.342,25.0,Wed,1,57.5,Resolved late
+REQ-10490,Email,Facilities,Access,Internal,Low,11.6,0,55,10,0,0,0.165,14.0,Mon,0,41.9,Resolved on time
+REQ-10491,Phone,Facilities,Data report,External supplier,Standard,10.0,2,31,7,3,1,0.175,19.0,Thu,0,34.8,Auto closed
+REQ-10492,Portal,Facilities,System issue,Partner,Standard,20.8,3,33,11,0,1,0.223,33.0,Thu,1,48.8,Resolved late
+REQ-10493,Portal,HR,Access,Internal,Standard,18.0,5,48,8,0,1,0.25,49.0,Tue,1,59.0,Resolved late
+REQ-10494,Chat,Facilities,Data report,Partner,Urgent,6.9,1,49,6,4,1,0.395,55.0,Thu,1,70.4,Resolved late
+REQ-10495,Portal,Finance,System issue,External supplier,Standard,15.1,0,8,7,1,1,0.116,16.0,Tue,0,56.4,Resolved on time
+REQ-10496,Portal,HR,Access,Internal,Standard,9.8,2,70,10,0,1,0.521,46.0,Thu,1,52.3,Resolved late
+REQ-10497,Portal,Facilities,Procurement,Key client,Standard,19.9,3,49,9,2,1,0.307,82.0,Thu,1,69.4,Resolved late
+REQ-10498,Portal,HR,Hardware,External supplier,Low,9.4,0,52,5,0,1,0.4,57.0,Mon,1,60.3,Resolved late
+REQ-10499,Email,Finance,Data report,Internal,Low,13.0,1,40,7,1,0,0.109,39.0,Tue,0,23.5,Resolved on time
+REQ-10500,Phone,Facilities,Access,External supplier,Low,10.2,2,16,8,1,1,0.117,40.0,Mon,1,51.9,Resolved late
+REQ-10501,Phone,Data,Policy query,Internal,Standard,3.1,1,51,6,0,1,0.291,38.0,Thu,1,52.5,Resolved late
+REQ-10502,Email,Data,Policy query,Key client,Standard,39.8,0,34,12,0,1,0.791,27.0,Tue,1,50.2,Resolved late
+REQ-10503,Email,Finance,Hardware,Partner,Standard,15.0,0,50,8,0,1,0.503,58.0,Thu,0,23.1,Auto closed
+REQ-10504,Chat,Finance,Payroll,Key client,Standard,40.7,3,39,7,2,1,0.656,21.0,Wed,1,60.7,Resolved late
+REQ-10505,Email,Facilities,Data report,Internal,Standard,15.4,2,45,10,0,0,0.328,40.0,Mon,0,20.8,Resolved on time
+REQ-10506,Portal,HR,System issue,Key client,Standard,23.4,0,31,7,1,1,0.073,14.0,Fri,0,25.4,Resolved on time
+REQ-10507,Portal,Data,Procurement,Internal,Urgent,8.9,1,54,10,0,1,0.183,61.0,Thu,0,28.8,Resolved on time
+REQ-10508,Phone,Finance,Access,Internal,Standard,9.1,1,25,4,2,0,0.188,39.0,Tue,1,53.5,Resolved late
+REQ-10509,Email,IT,Access,Internal,Standard,14.4,2,73,7,2,1,0.249,15.0,Fri,1,50.6,Resolved late
+REQ-10510,Phone,IT,Policy query,Key client,Standard,40.5,2,73,10,0,1,0.398,71.0,Thu,1,60.0,Resolved late
+REQ-10511,Portal,Data,Procurement,Internal,Standard,7.1,1,65,11,1,1,0.205,34.0,Fri,0,25.4,Resolved on time
+REQ-10512,Portal,IT,System issue,Internal,Urgent,2.3,3,60,6,2,1,0.24,17.0,Mon,1,53.8,Escalated late
+REQ-10513,Email,HR,Procurement,External supplier,Standard,29.0,1,41,6,1,1,0.504,85.0,Mon,1,58.6,Resolved late
+REQ-10514,Portal,HR,Policy query,Internal,Standard,24.4,2,58,9,1,0,0.474,31.0,Mon,1,66.7,Escalated late
+REQ-10515,Portal,IT,Access,Internal,Standard,10.7,1,41,6,0,0,0.367,23.0,Wed,0,26.7,Auto closed
+REQ-10516,Email,HR,Access,Internal,Standard,50.7,0,20,7,1,1,0.454,41.0,Thu,1,55.1,Resolved late
+REQ-10517,Email,Facilities,Policy query,Internal,Standard,52.0,3,63,9,0,1,0.349,19.0,Fri,1,51.3,Resolved late
+REQ-10518,Email,IT,Policy query,Partner,Standard,2.8,2,58,6,1,1,0.569,27.0,Fri,1,70.2,Resolved late
+REQ-10519,Portal,Data,Payroll,Internal,Standard,8.7,2,42,4,0,1,0.225,67.0,Wed,1,60.1,Resolved late
+REQ-10520,Email,Data,Payroll,Internal,Low,14.3,0,25,5,3,1,0.372,88.0,Thu,0,41.3,Resolved on time
+REQ-10521,Chat,HR,Procurement,External supplier,Urgent,19.6,0,34,8,1,1,0.353,32.0,Tue,1,71.7,Resolved late
+REQ-10522,Portal,IT,Payroll,Partner,Standard,17.6,0,17,4,2,1,0.314,45.0,Mon,0,26.6,Resolved on time
+REQ-10523,Phone,Finance,Hardware,Key client,Urgent,14.9,1,55,7,2,1,0.313,68.0,Mon,1,89.2,Escalated late
+REQ-10524,Chat,IT,Policy query,Partner,Low,6.2,1,20,5,1,1,0.494,31.0,Mon,0,40.2,Resolved on time
+REQ-10525,Email,HR,Hardware,External supplier,Standard,21.2,0,46,11,2,1,0.219,23.0,Thu,1,61.1,Resolved late
+REQ-10526,Portal,Data,System issue,Internal,Standard,22.1,1,30,12,2,1,,49.0,Wed,1,55.2,Resolved late
+REQ-10527,Chat,Data,Access,Key client,Standard,27.7,2,22,5,1,0,0.467,17.0,Thu,0,26.2,Auto closed
+REQ-10528,Portal,Facilities,Access,Key client,Low,5.4,0,45,8,1,1,0.371,21.0,Mon,1,59.9,Escalated late
+REQ-10529,Portal,HR,Data report,Internal,Urgent,12.7,1,37,6,0,1,0.44,15.0,Fri,1,62.1,Resolved late
+REQ-10530,Portal,Facilities,Payroll,Internal,Standard,10.3,2,54,7,1,0,0.158,66.0,Thu,1,48.2,Resolved late
+REQ-10531,Email,Facilities,Data report,Internal,Standard,5.3,2,24,11,0,1,0.133,37.0,Fri,0,28.2,Resolved on time
+REQ-10532,Portal,HR,Access,Key client,Standard,12.5,1,31,7,0,1,0.394,50.0,Thu,0,33.7,Resolved on time
+REQ-10533,Chat,Facilities,Policy query,Partner,Low,6.4,4,9,7,2,1,0.17,22.0,Tue,0,36.2,Auto closed
+REQ-10534,Chat,IT,System issue,Partner,Standard,4.6,3,11,6,0,1,0.292,44.0,Thu,1,58.5,Resolved late
+REQ-10535,Email,IT,System issue,Internal,Low,24.6,3,67,10,1,1,0.482,45.0,Thu,1,63.8,Escalated late
+REQ-10536,Phone,Finance,Access,Internal,Standard,10.6,3,71,2,2,0,0.313,85.0,Mon,1,54.2,Resolved late
+REQ-10537,Email,IT,Payroll,Internal,Standard,8.4,3,43,7,1,1,0.198,48.0,Mon,1,63.5,Escalated late
+REQ-10538,Chat,IT,Payroll,Key client,Standard,32.2,1,30,7,1,1,0.309,55.0,Thu,1,62.0,Resolved late
+REQ-10539,Email,Data,Procurement,External supplier,Low,22.5,1,38,6,4,1,0.547,39.0,Mon,1,71.4,Resolved late
+REQ-10540,Chat,Data,Hardware,External supplier,Low,2.1,4,54,9,2,0,0.319,7.0,Mon,1,79.4,Resolved late
+REQ-10541,Phone,Finance,Access,External supplier,Low,19.6,0,35,10,0,1,0.047,42.0,Mon,0,43.8,Resolved on time
+REQ-10542,Email,Data,Payroll,Partner,Low,19.6,2,45,5,0,1,0.26,33.0,Thu,1,57.5,Escalated late
+REQ-10543,Email,Data,Hardware,External supplier,Standard,12.1,3,42,12,0,1,,32.0,Fri,1,51.6,Resolved late
+REQ-10544,Phone,IT,Payroll,Internal,Low,11.8,0,34,5,2,1,0.443,28.0,Wed,1,53.4,Escalated late
+REQ-10545,Email,Finance,Hardware,Internal,Urgent,3.4,0,35,10,1,1,0.366,,Mon,0,50.8,Resolved on time
+REQ-10546,Portal,HR,Hardware,Internal,Low,50.3,0,46,8,1,1,0.379,25.0,Wed,1,60.4,Resolved late
+REQ-10547,Chat,IT,Data report,Internal,Low,12.5,3,28,6,0,1,0.343,53.0,Wed,0,34.4,Resolved on time
+REQ-10548,Portal,Facilities,Payroll,Internal,Urgent,18.9,1,48,7,0,0,0.149,20.0,Wed,1,69.3,Resolved late
+REQ-10549,Portal,HR,Payroll,Internal,Standard,13.0,1,35,7,0,1,0.154,79.0,Wed,0,31.8,Resolved on time
+REQ-10550,Portal,Finance,Procurement,External supplier,Standard,8.5,1,44,8,1,0,0.274,50.0,Wed,0,46.2,Resolved on time
+REQ-10551,Email,IT,System issue,Internal,Urgent,25.8,3,61,6,0,1,0.084,60.0,Tue,1,51.0,Resolved late
+REQ-10552,Chat,IT,Payroll,External supplier,Urgent,16.5,3,40,7,0,1,0.348,21.0,Fri,0,36.7,Resolved on time
+REQ-10553,Email,Data,Data report,Partner,Standard,12.6,2,55,6,1,0,0.195,27.0,Wed,0,57.1,Resolved on time
+REQ-10554,Email,IT,Policy query,Key client,Low,18.8,1,17,5,3,0,0.123,38.0,Tue,0,47.6,Resolved on time
+REQ-10555,Email,IT,Procurement,Key client,Standard,13.9,1,35,6,4,1,0.42,36.0,Mon,0,48.7,Resolved on time
+REQ-10556,Chat,HR,Policy query,Internal,Urgent,42.5,1,42,5,2,1,0.145,50.0,Thu,1,50.6,Resolved late
+REQ-10557,Email,Finance,System issue,Key client,Urgent,25.3,1,69,7,2,0,0.385,36.0,Tue,1,61.8,Resolved late
+REQ-10558,Chat,Finance,Access,Internal,Low,20.9,1,15,8,1,0,0.565,81.0,Tue,0,30.7,Resolved on time
+REQ-10559,Phone,Finance,Payroll,External supplier,Standard,3.9,0,41,8,0,1,0.17,,Wed,1,53.4,Escalated late
+REQ-10560,Phone,IT,System issue,Internal,Standard,21.4,3,62,11,3,1,0.208,19.0,Wed,0,34.0,Resolved on time
+REQ-10561,Chat,IT,Policy query,Internal,Low,21.1,0,31,3,0,1,0.158,26.0,Fri,0,23.6,Resolved on time
+REQ-10562,Chat,Data,Procurement,Key client,Standard,6.5,0,39,8,2,1,0.45,32.0,Wed,1,63.8,Escalated late
+REQ-10563,Chat,Facilities,Access,Key client,Low,3.8,3,47,8,1,1,0.315,62.0,Thu,1,53.0,Resolved late
+REQ-10564,Email,Facilities,Data report,Internal,Standard,24.6,2,45,9,2,1,0.199,43.0,Thu,0,35.2,Resolved on time
+REQ-10565,Phone,Facilities,Access,Key client,Low,26.6,1,64,9,3,1,0.472,8.0,Fri,1,53.7,Resolved late
+REQ-10566,Portal,Facilities,System issue,Internal,Standard,9.1,2,48,7,4,1,0.258,8.0,Mon,1,57.0,Resolved late
+REQ-10567,Portal,IT,Procurement,Key client,Low,8.8,2,61,8,1,1,0.155,34.0,Tue,1,56.3,Resolved late
+REQ-10568,Chat,HR,System issue,Internal,Standard,16.3,1,37,6,2,1,0.253,29.0,Thu,0,30.5,Auto closed
+REQ-10569,Chat,Finance,System issue,Internal,Low,10.6,2,32,9,5,1,0.24,,Mon,0,31.4,Resolved on time
+REQ-10570,Phone,HR,Data report,Internal,Urgent,3.7,1,39,4,1,1,0.095,32.0,Wed,0,28.3,Resolved on time
+REQ-10571,Portal,Data,Data report,Internal,Low,6.5,1,26,9,0,0,0.073,76.0,Wed,0,24.4,Auto closed
+REQ-10572,Portal,Finance,System issue,Internal,Standard,18.4,1,49,7,3,1,0.089,58.0,Fri,0,44.5,Resolved on time
+REQ-10573,Portal,Facilities,System issue,Internal,Low,6.8,1,37,7,2,1,0.124,27.0,Fri,0,31.7,Resolved on time
+REQ-10574,Portal,Data,System issue,Internal,Low,27.5,0,33,7,1,1,0.345,36.0,Mon,0,34.2,Resolved on time
+REQ-10575,Portal,Finance,Access,Internal,Low,20.8,0,49,7,2,1,0.191,31.0,Tue,1,56.3,Resolved late
+REQ-10576,Email,Data,Procurement,Key client,Low,19.0,3,26,10,1,1,0.179,10.0,Thu,0,68.2,Resolved on time
+REQ-10577,Email,Finance,Hardware,Internal,Low,16.1,1,53,14,1,1,0.147,28.0,Mon,0,32.5,Resolved on time
+REQ-10578,Phone,Data,System issue,Key client,Standard,8.2,1,35,10,1,1,0.327,28.0,Wed,0,45.3,Resolved on time
+REQ-10579,Portal,HR,Data report,External supplier,Standard,22.8,4,58,6,1,1,0.367,25.0,Fri,1,57.1,Escalated late
+REQ-10580,Chat,Finance,Payroll,,Low,8.0,0,37,9,0,1,0.4,27.0,Fri,0,37.2,Resolved on time
+REQ-10581,Portal,Finance,Hardware,External supplier,Standard,28.5,0,51,9,0,1,0.449,31.0,Fri,0,30.1,Resolved on time
+REQ-10582,Email,IT,Payroll,Internal,Standard,38.3,3,45,6,1,1,0.52,45.0,Mon,1,70.6,Resolved late
+REQ-10583,Email,HR,System issue,Internal,Low,16.5,3,52,5,0,1,0.131,26.0,Mon,1,55.6,Escalated late
+REQ-10584,Email,Data,Hardware,Key client,Standard,35.1,0,44,7,1,1,,67.0,Mon,1,51.9,Escalated late
+REQ-10585,Chat,Facilities,Access,Partner,Low,6.6,0,19,9,3,1,0.176,21.0,Thu,0,34.2,Resolved on time
+REQ-10586,Email,IT,System issue,Partner,Low,21.0,2,56,4,0,1,0.356,61.0,Mon,1,71.7,Resolved late
+REQ-10587,Portal,HR,System issue,Internal,Standard,14.6,1,41,6,2,1,0.279,42.0,Wed,0,30.4,Resolved on time
+REQ-10588,Chat,IT,Hardware,Partner,Urgent,24.9,1,53,9,3,1,0.062,18.0,Fri,1,55.4,Resolved late
+REQ-10589,Chat,IT,Hardware,Internal,Urgent,2.2,0,52,8,0,1,0.569,31.0,Wed,0,23.0,Resolved on time
+REQ-10590,Email,Data,Policy query,Internal,Urgent,23.9,2,31,10,3,1,0.564,77.0,Fri,0,43.9,Resolved on time
+REQ-10591,Email,Finance,System issue,Internal,Standard,8.9,0,29,5,2,1,0.263,21.0,Wed,0,25.2,Resolved on time
+REQ-10592,Email,HR,Data report,External supplier,Low,15.2,0,51,12,3,1,0.66,,Tue,1,56.2,Resolved late
+REQ-10593,Email,Finance,Hardware,Internal,Standard,49.7,1,38,4,0,1,0.291,46.0,Fri,1,56.1,Resolved late
+REQ-10594,Email,IT,Hardware,Partner,Low,21.5,0,55,3,2,1,0.388,42.0,Wed,0,31.1,Resolved on time
+REQ-10595,Portal,HR,Access,Key client,Low,19.6,3,40,7,1,1,0.346,45.0,Mon,1,65.1,Resolved late
+REQ-10596,Chat,Facilities,System issue,,Low,18.5,2,56,5,1,0,0.456,30.0,Thu,1,87.5,Escalated late
+REQ-10597,Portal,Facilities,Access,Key client,Standard,30.5,1,48,7,3,0,0.46,3.0,Thu,1,62.7,Escalated late
+REQ-10598,Portal,Data,Access,,Standard,25.4,1,46,7,1,0,0.523,22.0,Fri,1,51.1,Resolved late
+REQ-10599,Email,Facilities,System issue,Internal,Low,18.6,1,37,7,3,1,0.247,,Mon,1,58.6,Escalated late
+REQ-10600,Phone,Finance,Policy query,Internal,Standard,17.1,3,45,6,0,1,0.243,43.0,Mon,1,62.8,Resolved late
+REQ-10601,Portal,Facilities,System issue,Key client,Standard,16.3,2,59,8,4,1,0.764,47.0,Thu,1,74.5,Resolved late
+REQ-10602,Chat,Data,Procurement,Internal,Urgent,14.1,3,41,7,1,0,0.546,46.0,Thu,1,72.5,Escalated late
+REQ-10603,Chat,Facilities,Procurement,Internal,Low,5.4,2,49,10,2,1,0.742,52.0,Thu,0,30.3,Resolved on time
+REQ-10604,Portal,Data,Procurement,Internal,Standard,21.2,0,43,7,1,1,0.065,93.0,Tue,0,32.3,Auto closed
+REQ-10605,Email,Facilities,Payroll,Internal,Low,9.6,0,44,6,3,1,0.28,41.0,Thu,1,61.6,Escalated late
+REQ-10606,Email,Data,Procurement,,Standard,12.9,1,66,4,1,0,0.239,65.0,Wed,1,60.3,Resolved late
+REQ-10607,Portal,IT,Procurement,Internal,Low,26.6,1,59,7,0,0,0.552,48.0,Fri,1,58.6,Escalated late
+REQ-10608,Chat,Facilities,Data report,External supplier,Low,14.3,1,43,5,1,1,0.38,98.0,Tue,0,51.9,Auto closed
+REQ-10609,Portal,Finance,Policy query,Internal,Standard,13.5,4,45,5,1,1,0.354,38.0,Thu,0,26.3,Resolved on time
+REQ-10610,Phone,Finance,Policy query,External supplier,Low,16.5,0,32,9,1,1,0.305,36.0,Mon,0,41.7,Resolved on time
+REQ-10611,Portal,Facilities,Access,External supplier,Low,11.7,0,40,4,0,0,0.304,63.0,Thu,1,67.0,Resolved late
+REQ-10612,Email,Data,Payroll,Internal,Urgent,49.1,1,46,10,1,0,0.16,63.0,Thu,1,58.3,Resolved late
+REQ-10613,Email,Data,Hardware,Key client,Low,44.8,1,54,8,1,1,0.191,32.0,Tue,1,53.9,Escalated late
+REQ-10614,Portal,HR,Payroll,Key client,Standard,44.1,4,52,7,0,1,0.322,47.0,Mon,1,59.7,Escalated late
+REQ-10615,Phone,Facilities,Hardware,Key client,Standard,18.5,0,26,5,0,0,0.392,52.0,Fri,0,37.6,Resolved on time
+REQ-10616,Portal,Facilities,Access,Internal,Low,9.1,2,56,9,0,1,0.234,51.0,Mon,1,47.0,Escalated late
+REQ-10617,Email,HR,System issue,,Standard,27.0,1,41,7,1,1,0.649,45.0,Wed,0,23.6,Resolved on time
+REQ-10618,Phone,IT,Procurement,Internal,Low,11.7,0,28,6,1,1,0.323,13.0,Mon,1,47.7,Resolved late
+REQ-10619,Email,IT,Policy query,Key client,Standard,28.6,1,61,8,2,1,0.083,51.0,Wed,1,62.3,Resolved late
+REQ-10620,Chat,Facilities,Access,External supplier,Low,8.8,3,62,4,1,0,0.488,52.0,Fri,1,61.9,Resolved late
+REQ-10621,Email,Finance,Access,Key client,Low,19.5,1,46,4,1,1,0.443,46.0,Wed,1,52.1,Resolved late
+REQ-10622,Email,Data,Payroll,Key client,Standard,31.3,2,52,5,0,1,0.41,30.0,Tue,1,53.4,Escalated late
+REQ-10623,Portal,Finance,Access,External supplier,Urgent,12.2,0,53,8,1,1,0.306,73.0,Tue,1,61.3,Escalated late
+REQ-10624,Portal,Data,Hardware,Key client,Standard,12.2,2,62,7,3,0,0.301,22.0,Mon,1,49.8,Resolved late
+REQ-10625,Portal,HR,Policy query,Internal,Urgent,4.2,0,52,10,1,0,0.241,64.0,Wed,1,66.4,Resolved late
+REQ-10626,Portal,Facilities,Hardware,Partner,Standard,9.0,0,23,6,4,1,0.545,22.0,Mon,1,57.4,Escalated late
+REQ-10627,Chat,IT,Hardware,Internal,Standard,18.3,2,70,9,1,1,0.203,60.0,Tue,1,59.1,Escalated late
+REQ-10628,Portal,Finance,Data report,Internal,Standard,20.2,2,57,7,1,1,0.351,22.0,Mon,1,59.9,Resolved late
+REQ-10629,Portal,Facilities,Procurement,Internal,Urgent,22.3,1,35,6,0,0,0.363,58.0,Tue,1,51.1,Resolved late
+REQ-10630,Portal,Data,Data report,External supplier,Standard,2.8,1,28,8,1,1,0.3,81.0,Mon,1,59.9,Resolved late
+REQ-10631,Email,Data,Payroll,Internal,Standard,11.8,2,49,7,1,1,0.368,81.0,Fri,1,64.8,Resolved late
+REQ-10632,Portal,IT,System issue,Internal,Standard,4.6,3,38,6,2,0,0.558,73.0,Thu,1,54.0,Resolved late
+REQ-10633,Email,HR,Access,Internal,Standard,17.7,1,47,8,3,1,0.168,38.0,Fri,1,53.4,Resolved late
+REQ-10634,Portal,IT,Payroll,Internal,Low,3.4,0,52,7,2,1,0.201,27.0,Thu,0,58.0,Resolved on time
+REQ-10635,Email,IT,Data report,Internal,Standard,5.9,0,34,7,1,1,0.253,7.0,Wed,0,24.8,Auto closed
+REQ-10636,Chat,Facilities,System issue,Key client,Standard,25.1,0,26,7,1,1,0.083,35.0,Mon,1,55.9,Resolved late
+REQ-10637,Portal,Facilities,Payroll,Partner,Urgent,9.8,3,47,5,1,1,0.328,61.0,Fri,1,76.3,Resolved late
+REQ-10638,Chat,Facilities,Data report,Internal,Standard,35.3,2,35,8,1,1,0.304,51.0,Fri,0,21.6,Resolved on time
+REQ-10639,Portal,Data,Access,Internal,Standard,22.7,2,44,6,1,1,0.458,102.0,Wed,0,30.1,Auto closed
+REQ-10640,Email,Facilities,Access,Internal,Standard,12.3,2,23,5,2,0,0.5,29.0,Tue,1,64.6,Resolved late
+REQ-10641,Phone,Facilities,Access,Internal,Standard,27.8,1,38,7,1,1,0.217,84.0,Tue,0,30.6,Resolved on time
+REQ-10642,Portal,IT,System issue,Key client,Low,13.1,4,52,9,1,1,0.246,36.0,Tue,1,49.1,Resolved late
+REQ-10643,Phone,IT,Hardware,Key client,Urgent,24.2,2,50,8,1,1,0.303,22.0,Fri,1,51.6,Escalated late
+REQ-10644,Portal,Facilities,System issue,,Standard,8.6,3,31,6,0,0,0.503,44.0,Mon,1,48.7,Resolved late
+REQ-10645,Portal,Data,Access,Internal,Low,28.9,1,26,6,1,1,0.166,50.0,Thu,0,29.5,Resolved on time
+REQ-10646,Chat,IT,System issue,Key client,Low,3.8,0,42,9,0,1,0.327,69.0,Thu,0,34.9,Resolved on time
+REQ-10647,Portal,Finance,System issue,Internal,Low,5.9,0,50,3,0,0,0.097,28.0,Thu,1,54.0,Escalated late
+REQ-10648,Portal,Facilities,Access,Internal,Standard,6.8,1,48,9,5,1,0.086,44.0,Mon,0,28.4,Resolved on time
+REQ-10649,Phone,IT,Access,External supplier,Standard,9.4,0,35,4,0,1,0.109,38.0,Wed,0,28.3,Resolved on time
+REQ-10650,Phone,HR,Access,Partner,Urgent,18.8,0,46,5,0,0,0.332,31.0,Tue,0,45.3,Resolved on time
+REQ-10651,Chat,Data,System issue,External supplier,Standard,14.9,0,63,6,0,1,0.171,80.0,Wed,1,61.2,Escalated late
+REQ-10652,Portal,Facilities,Hardware,External supplier,Standard,24.4,2,45,12,1,1,0.149,51.0,Mon,0,31.9,Auto closed
+REQ-10653,Portal,IT,Procurement,Key client,Standard,31.6,0,19,11,0,1,,10.0,Mon,0,42.6,Resolved on time
+REQ-10654,Phone,Data,Payroll,External supplier,Standard,3.4,0,45,9,1,0,0.352,44.0,Mon,1,50.4,Escalated late
+REQ-10655,Portal,HR,System issue,,Urgent,34.0,0,71,8,0,0,0.476,,Fri,1,61.0,Escalated late
+REQ-10656,Phone,Data,Procurement,Internal,Standard,12.9,1,24,4,0,1,0.358,42.0,Wed,0,26.9,Resolved on time
+REQ-10657,Portal,HR,Procurement,Internal,Urgent,43.6,2,42,8,1,1,0.164,16.0,Tue,1,75.6,Resolved late
+REQ-10658,Email,Finance,Policy query,Internal,Standard,8.3,1,39,6,0,1,0.084,51.0,Thu,0,42.8,Resolved on time
+REQ-10659,Phone,HR,Access,,Standard,2.4,2,43,6,0,1,0.028,15.0,Wed,0,26.9,Resolved on time
+REQ-10660,Email,HR,System issue,Internal,Urgent,22.8,3,45,8,1,1,0.397,22.0,Tue,1,56.8,Resolved late
+REQ-10661,Email,Data,Access,Key client,Standard,21.9,1,58,7,0,1,0.151,56.0,Mon,1,52.5,Resolved late
+REQ-10662,Portal,IT,Procurement,Partner,Low,6.1,0,43,9,2,1,0.458,38.0,Tue,1,68.4,Resolved late
+REQ-10663,Phone,IT,System issue,Key client,Standard,6.6,0,60,4,0,1,0.613,17.0,Thu,1,65.4,Resolved late
+REQ-10664,Chat,HR,Data report,Internal,Low,25.6,2,40,8,0,1,0.554,77.0,Thu,1,57.2,Resolved late
+REQ-10665,Email,Facilities,Data report,Partner,Standard,19.4,0,37,6,1,1,0.24,30.0,Tue,0,29.1,Resolved on time
+REQ-10666,Email,Facilities,Hardware,Internal,Standard,11.9,2,33,7,3,1,0.493,33.0,Thu,0,27.5,Resolved on time
+REQ-10667,Chat,Data,Payroll,Internal,Standard,20.7,2,17,8,3,1,0.104,35.0,Thu,0,46.5,Auto closed
+REQ-10668,Email,HR,Payroll,Internal,Urgent,18.1,2,46,5,3,1,0.348,53.0,Fri,1,57.9,Resolved late
+REQ-10669,Email,HR,Procurement,Internal,Low,7.2,1,71,8,1,1,0.285,32.0,Wed,1,55.7,Resolved late
+REQ-10670,Email,IT,Procurement,Internal,Standard,26.9,1,48,7,3,1,0.084,36.0,Tue,1,67.0,Resolved late
+REQ-10671,Portal,Finance,Payroll,Partner,Standard,23.5,5,52,6,0,1,0.218,,Mon,0,19.5,Resolved on time
+REQ-10672,Chat,Data,Hardware,Partner,Standard,15.1,1,36,7,2,1,0.422,62.0,Mon,0,28.7,Resolved on time
+REQ-10673,Phone,Facilities,Hardware,Key client,Low,25.6,2,39,7,2,0,0.151,34.0,Mon,0,40.8,Resolved on time
+REQ-10674,Phone,Finance,Payroll,Internal,Low,47.0,0,56,6,0,1,0.355,35.0,Wed,0,50.5,Resolved on time
+REQ-10675,Email,HR,Access,Partner,Standard,6.5,1,70,8,1,1,0.293,7.0,Tue,0,26.2,Resolved on time
+REQ-10676,Portal,Data,System issue,Key client,Standard,12.3,1,63,7,0,0,0.139,42.0,Tue,1,64.0,Resolved late
+REQ-10677,Portal,Finance,Data report,Internal,Standard,12.8,2,53,6,2,1,0.112,57.0,Thu,0,26.2,Resolved on time
+REQ-10678,Email,IT,Access,Key client,Low,25.2,0,42,11,1,1,0.369,31.0,Tue,0,60.0,Resolved on time
+REQ-10679,Email,HR,System issue,Internal,Standard,9.3,3,45,8,0,1,0.204,72.0,Fri,0,32.4,Resolved on time
+REQ-10680,Email,IT,System issue,Internal,Standard,24.3,5,31,7,0,1,0.271,14.0,Mon,1,65.3,Resolved late
+REQ-10681,Email,IT,Hardware,Internal,Low,10.2,2,22,8,0,1,0.371,23.0,Tue,1,47.9,Escalated late
+REQ-10682,Portal,IT,Access,Internal,Standard,5.9,6,26,5,1,1,0.375,69.0,Mon,1,55.4,Resolved late
+REQ-10683,Phone,Finance,Access,Internal,Standard,15.8,0,43,7,1,0,0.15,56.0,Wed,1,67.1,Resolved late
+REQ-10684,Email,Facilities,Access,Internal,Standard,10.0,2,38,7,0,1,0.146,13.0,Mon,0,22.4,Resolved on time
+REQ-10685,Portal,HR,System issue,Internal,Urgent,16.9,2,21,5,0,1,0.346,15.0,Tue,1,60.4,Escalated late
+REQ-10686,Phone,HR,Policy query,External supplier,Standard,19.8,2,41,8,1,0,0.566,51.0,Thu,0,51.4,Resolved on time
+REQ-10687,Phone,Data,Access,Internal,Standard,3.6,3,38,6,1,1,0.347,46.0,Fri,1,67.8,Escalated late
+REQ-10688,Phone,Facilities,System issue,Internal,Low,10.9,1,26,7,2,1,0.401,33.0,Wed,0,36.4,Resolved on time
+REQ-10689,Portal,Finance,Access,Internal,Low,15.8,0,37,6,0,1,0.533,70.0,Fri,1,55.8,Escalated late
+REQ-10690,Phone,HR,Data report,External supplier,Low,25.7,1,38,13,0,1,0.172,26.0,Thu,0,23.3,Resolved on time
+REQ-10691,Email,Data,System issue,Key client,Standard,23.6,2,33,6,0,0,0.588,,Thu,1,58.5,Resolved late
+REQ-10692,Portal,IT,Payroll,External supplier,Urgent,7.7,4,55,3,2,1,,53.0,Fri,1,65.8,Resolved late
+REQ-10693,Email,HR,Access,Internal,Low,13.2,0,15,4,1,1,0.34,59.0,Mon,1,52.5,Resolved late
+REQ-10694,Portal,Data,Data report,Internal,Low,20.5,0,14,9,1,1,0.245,27.0,Tue,0,39.7,Resolved on time
+REQ-10695,Portal,Finance,Policy query,Key client,Standard,12.6,3,42,10,1,1,0.321,20.0,Wed,0,32.9,Resolved on time
+REQ-10696,Email,Facilities,Hardware,Internal,Standard,8.4,0,43,6,0,1,0.356,10.0,Thu,0,25.4,Resolved on time
+REQ-10697,Phone,Finance,Hardware,Partner,Standard,14.5,2,48,10,0,1,0.481,38.0,Fri,1,49.5,Resolved late
+REQ-10698,Email,Facilities,Access,External supplier,Standard,19.2,1,34,9,3,1,0.136,45.0,Mon,0,22.3,Auto closed
+REQ-10699,Email,HR,Procurement,Internal,Urgent,7.1,0,29,7,1,1,0.426,61.0,Tue,0,30.2,Resolved on time
+REQ-10700,Email,IT,Data report,External supplier,Standard,22.0,1,42,7,3,1,0.405,46.0,Tue,0,44.2,Auto closed
+REQ-10701,Portal,HR,System issue,Key client,Standard,16.4,2,36,8,2,0,0.642,28.0,Thu,1,53.5,Resolved late
+REQ-10702,Email,IT,System issue,Internal,Standard,22.5,1,64,9,1,1,0.295,42.0,Fri,1,74.3,Resolved late
+REQ-10703,Portal,Data,Policy query,Internal,Standard,14.2,0,37,8,1,1,0.67,62.0,Fri,0,21.1,Resolved on time
+REQ-10704,Email,HR,System issue,Internal,Urgent,42.6,3,41,6,2,0,0.098,44.0,Thu,1,59.6,Escalated late
+REQ-10705,Phone,Finance,Hardware,Partner,Low,18.9,1,77,7,1,1,0.115,58.0,Thu,1,58.7,Escalated late
+REQ-10706,Chat,Facilities,Procurement,Internal,Standard,24.2,3,39,11,1,1,0.561,20.0,Wed,1,62.9,Escalated late
+REQ-10707,Portal,Facilities,Hardware,Internal,Standard,21.9,2,50,8,1,0,0.181,52.0,Thu,0,32.8,Resolved on time
+REQ-10708,Portal,HR,Payroll,Key client,Urgent,13.1,3,51,9,0,0,0.397,46.0,Mon,1,55.7,Resolved late
+REQ-10709,Chat,Finance,Policy query,Internal,Standard,17.8,2,52,9,1,1,0.364,32.0,Wed,1,55.7,Resolved late
+REQ-10710,Chat,Data,Data report,Internal,Standard,9.5,1,46,8,0,1,0.489,63.0,Tue,0,41.2,Resolved on time
+REQ-10711,Portal,Facilities,Policy query,Key client,Standard,40.7,6,45,8,1,0,0.505,92.0,Fri,0,32.1,Resolved on time
+REQ-10712,Chat,Facilities,Payroll,Internal,Standard,20.4,0,43,9,0,0,0.63,16.0,Tue,0,19.8,Resolved on time
+REQ-10713,Chat,Data,Procurement,Internal,Standard,8.0,3,34,9,2,1,0.21,13.0,Tue,1,56.4,Resolved late
+REQ-10714,Phone,Facilities,Procurement,Internal,Standard,34.9,1,47,8,0,1,0.323,32.0,Wed,1,57.0,Escalated late
+REQ-10715,Portal,IT,Access,Internal,Low,13.6,1,70,6,0,1,0.174,36.0,Fri,1,57.0,Resolved late
+REQ-10716,Email,Finance,Hardware,Internal,Standard,26.5,0,59,8,0,0,0.215,38.0,Fri,0,39.2,Resolved on time
+REQ-10717,Email,IT,Procurement,Partner,Urgent,3.5,1,46,7,2,0,,27.0,Wed,1,54.7,Resolved late
+REQ-10718,Portal,Facilities,Access,External supplier,Standard,30.9,2,54,7,0,1,0.232,14.0,Fri,1,61.6,Escalated late
+REQ-10719,Portal,Data,Policy query,Internal,Standard,19.8,1,30,13,0,1,0.181,33.0,Thu,0,51.7,Resolved on time
+REQ-10720,Portal,Finance,Access,External supplier,Urgent,7.5,2,38,4,0,1,0.374,36.0,Fri,1,72.3,Resolved late
+REQ-10721,Portal,HR,Hardware,Key client,Standard,19.6,1,55,9,1,1,0.174,32.0,Fri,0,26.1,Resolved on time
+REQ-10722,Portal,IT,System issue,Key client,Urgent,38.1,0,63,6,0,1,0.419,37.0,Tue,1,60.4,Resolved late
+REQ-10723,Phone,Data,Access,Key client,Standard,9.7,1,31,8,1,1,0.405,42.0,Wed,1,47.0,Resolved late
+REQ-10724,Email,IT,Policy query,Key client,Urgent,9.6,2,35,13,0,1,0.333,34.0,Tue,1,65.1,Resolved late
+REQ-10725,Email,IT,System issue,Partner,Low,13.0,1,73,6,1,0,0.252,,Tue,1,51.0,Resolved late
+REQ-10726,Phone,IT,Access,Internal,Standard,15.7,1,43,6,0,1,0.115,37.0,Wed,1,59.1,Resolved late
+REQ-10727,Chat,IT,System issue,Internal,Standard,27.7,3,68,7,1,1,0.286,44.0,Mon,1,57.9,Resolved late
+REQ-10728,Chat,Finance,Data report,Internal,Standard,20.6,0,45,6,0,0,0.364,39.0,Tue,1,71.5,Resolved late
+REQ-10729,Chat,Finance,System issue,Internal,Urgent,13.0,1,45,9,1,1,0.177,95.0,Fri,1,61.7,Resolved late
+REQ-10730,Chat,HR,System issue,Key client,Standard,18.3,2,38,6,3,1,0.386,45.0,Mon,1,57.9,Resolved late
+REQ-10731,Email,IT,System issue,Internal,Standard,42.1,0,55,9,1,1,0.516,38.0,Thu,1,65.9,Resolved late
+REQ-10732,Portal,IT,Data report,Internal,Standard,23.0,1,61,5,0,0,0.452,24.0,Thu,0,46.0,Auto closed
+REQ-10733,Email,HR,Payroll,Internal,Standard,14.0,0,28,4,1,1,0.721,25.0,Tue,0,19.3,Resolved on time
+REQ-10734,Portal,IT,System issue,Internal,Standard,12.7,2,37,7,4,1,0.264,32.0,Wed,0,26.5,Resolved on time
+REQ-10735,Chat,Facilities,Policy query,Key client,Low,17.6,0,55,4,4,1,0.336,32.0,Fri,0,52.3,Resolved on time
+REQ-10736,Portal,IT,Data report,Key client,Standard,27.4,2,40,11,1,1,0.271,32.0,Fri,0,62.6,Resolved on time
+REQ-10737,Portal,HR,Data report,Internal,Urgent,8.6,1,35,4,1,1,0.141,46.0,Fri,0,25.3,Resolved on time
+REQ-10738,Email,HR,Procurement,Internal,Standard,25.0,1,56,5,0,1,0.237,62.0,Thu,1,69.0,Resolved late
+REQ-10739,Email,HR,System issue,Internal,Standard,13.8,4,57,8,1,1,0.054,53.0,Fri,1,53.3,Resolved late
+REQ-10740,Email,IT,Policy query,Internal,Standard,15.3,2,36,6,1,1,0.473,50.0,Tue,0,23.8,Resolved on time
+REQ-10741,Email,IT,Access,Key client,Standard,63.3,2,45,4,0,1,0.215,23.0,Thu,1,58.2,Resolved late
+REQ-10742,Chat,Data,Hardware,Key client,Low,23.4,4,25,12,0,1,0.336,66.0,Thu,0,42.7,Resolved on time
+REQ-10743,Portal,IT,Procurement,Internal,Standard,10.2,0,29,5,1,0,0.168,24.0,Fri,1,57.1,Resolved late
+REQ-10744,Phone,Finance,Procurement,Internal,Standard,19.8,1,44,7,1,1,0.325,43.0,Tue,0,42.5,Resolved on time
+REQ-10745,Phone,Finance,Data report,External supplier,Low,28.3,2,42,7,1,1,0.301,48.0,Fri,0,43.9,Resolved on time
+REQ-10746,Email,HR,Access,Partner,Low,23.6,1,28,9,2,1,0.36,67.0,Wed,1,55.4,Resolved late
+REQ-10747,Email,HR,Payroll,,Standard,2.0,0,32,8,1,1,0.149,87.0,Mon,1,55.2,Resolved late
+REQ-10748,Phone,Facilities,Data report,Internal,Standard,14.8,3,27,6,0,1,0.116,31.0,Thu,0,29.4,Resolved on time
+REQ-10749,Email,Data,Data report,Internal,Standard,20.4,0,48,7,4,0,0.43,41.0,Fri,1,59.4,Escalated late
+REQ-10750,Chat,HR,Data report,External supplier,Low,19.3,0,14,7,1,1,0.15,64.0,Wed,0,30.3,Auto closed
+REQ-10751,Email,HR,System issue,Internal,Standard,10.9,0,28,9,0,1,0.331,91.0,Wed,1,60.3,Resolved late
+REQ-10752,Phone,IT,Data report,Internal,Standard,23.8,3,16,5,0,1,0.469,33.0,Fri,0,27.9,Resolved on time
+REQ-10753,Phone,Finance,System issue,External supplier,Standard,31.0,1,48,12,1,1,0.506,24.0,Fri,1,51.4,Escalated late
+REQ-10754,Email,Facilities,Data report,Key client,Standard,3.7,2,17,6,0,0,0.331,17.0,Wed,0,57.2,Resolved on time
+REQ-10755,Email,IT,Procurement,Internal,Low,3.4,1,42,7,1,0,0.194,13.0,Thu,0,26.5,Resolved on time
+REQ-10756,Chat,HR,Data report,Internal,Urgent,19.7,3,65,5,0,1,0.497,26.0,Thu,1,49.4,Escalated late
+REQ-10757,Email,Data,Access,Internal,Low,25.1,1,65,5,0,1,0.236,58.0,Thu,1,66.9,Resolved late
+REQ-10758,Portal,IT,Hardware,Key client,Standard,9.7,2,17,6,2,1,0.027,60.0,Thu,1,52.2,Escalated late
+REQ-10759,Portal,Finance,Procurement,Internal,Low,2.2,2,46,6,0,1,,45.0,Tue,1,65.6,Resolved late
+REQ-10760,Email,Facilities,System issue,External supplier,Standard,15.0,0,28,7,2,0,0.371,32.0,Tue,0,26.2,Resolved on time
+REQ-10761,Phone,IT,Data report,External supplier,Standard,19.5,2,25,6,1,0,0.536,,Mon,0,61.8,Resolved on time
+REQ-10762,Phone,IT,Access,Key client,Urgent,12.2,0,40,9,0,1,0.153,39.0,Fri,1,76.8,Resolved late
+REQ-10763,Portal,IT,Data report,Key client,Standard,28.8,2,59,6,1,1,0.288,33.0,Tue,1,57.7,Resolved late
+REQ-10764,Phone,Data,Hardware,Internal,Standard,18.7,0,50,6,2,1,0.595,44.0,Thu,1,64.4,Resolved late
+REQ-10765,Email,IT,System issue,Internal,Low,8.9,2,32,7,0,1,0.111,31.0,Thu,0,34.1,Resolved on time
+REQ-10766,Email,IT,System issue,Partner,Low,9.6,1,52,9,3,1,0.236,44.0,Thu,0,26.0,Resolved on time
+REQ-10767,Portal,IT,Data report,Internal,Standard,15.2,0,11,8,2,1,0.385,48.0,Fri,0,38.5,Resolved on time
+REQ-10768,Chat,IT,Data report,Internal,Standard,11.6,2,31,7,3,0,0.479,54.0,Fri,1,60.2,Escalated late
+REQ-10769,Email,Facilities,Payroll,Internal,Standard,3.2,1,30,5,1,0,0.31,15.0,Mon,1,61.5,Resolved late
+REQ-10770,Email,IT,Procurement,Internal,Urgent,17.6,3,43,5,1,1,,67.0,Fri,1,65.4,Escalated late
+REQ-10771,Portal,Finance,System issue,Internal,Standard,9.8,2,39,5,0,1,0.319,36.0,Tue,0,30.6,Auto closed
+REQ-10772,Phone,Finance,System issue,Key client,Urgent,11.2,2,40,10,1,1,0.592,87.0,Thu,0,25.3,Resolved on time
+REQ-10773,Email,Data,Procurement,Partner,Standard,6.5,1,40,9,1,1,0.322,58.0,Thu,0,36.4,Resolved on time
+REQ-10774,Portal,IT,Payroll,Key client,Standard,38.7,1,42,6,1,1,0.499,24.0,Mon,1,67.6,Resolved late
+REQ-10775,Phone,Data,Access,Partner,Standard,22.5,2,50,6,1,0,0.3,50.0,Tue,1,67.7,Resolved late
+REQ-10776,Portal,Finance,Access,Internal,Standard,44.8,2,44,6,1,1,0.348,65.0,Fri,1,68.0,Resolved late
+REQ-10777,Email,IT,Hardware,Partner,Urgent,12.2,1,38,6,0,1,0.127,34.0,Mon,0,35.0,Resolved on time
+REQ-10778,Email,Facilities,Payroll,Internal,Standard,23.4,1,48,8,1,1,0.321,23.0,Tue,1,49.5,Resolved late
+REQ-10779,Portal,Data,Policy query,Internal,Urgent,17.8,1,54,7,0,1,0.509,21.0,Mon,1,91.0,Resolved late
+REQ-10780,Portal,IT,Procurement,External supplier,Standard,9.2,0,34,12,1,0,0.218,17.0,Mon,0,39.5,Resolved on time
+REQ-10781,Chat,Data,Hardware,Internal,Low,12.1,1,41,10,1,1,0.592,11.0,Thu,1,56.3,Resolved late
+REQ-10782,Portal,Finance,Access,Internal,Standard,22.5,1,58,10,4,1,0.369,37.0,Fri,1,69.5,Escalated late
+REQ-10783,Phone,Finance,Payroll,Internal,Standard,6.5,1,27,9,3,0,0.234,22.0,Wed,1,51.7,Resolved late
+REQ-10784,Chat,Data,System issue,Internal,Urgent,29.0,3,67,7,0,1,0.392,27.0,Tue,1,65.7,Escalated late
+REQ-10785,Portal,HR,Payroll,Internal,Standard,16.8,1,23,9,1,1,0.342,88.0,Fri,0,29.1,Resolved on time
+REQ-10786,Portal,Facilities,System issue,Internal,Low,26.6,1,37,7,1,1,0.1,48.0,Tue,1,52.0,Escalated late
+REQ-10787,Chat,HR,System issue,External supplier,Low,19.5,0,29,11,1,1,0.126,24.0,Tue,0,23.9,Resolved on time
+REQ-10788,Email,Facilities,Access,Internal,Low,3.8,3,73,8,0,1,0.191,109.0,Wed,1,63.8,Resolved late
+REQ-10789,Phone,Finance,Data report,Internal,Standard,14.8,0,35,8,0,0,0.092,44.0,Mon,0,37.2,Resolved on time
+REQ-10790,Phone,IT,Policy query,Internal,Low,29.4,2,35,8,3,1,0.279,5.0,Tue,1,52.9,Resolved late
+REQ-10791,Email,HR,Payroll,Partner,Standard,16.7,0,37,11,2,1,,104.0,Thu,0,29.2,Resolved on time
+REQ-10792,Portal,HR,Access,Internal,Standard,15.1,0,43,5,2,0,0.203,78.0,Thu,0,34.7,Resolved on time
+REQ-10793,Email,IT,Policy query,Internal,Urgent,16.6,2,37,11,1,1,0.304,45.0,Fri,0,27.3,Resolved on time
+REQ-10794,Email,IT,System issue,Internal,Low,3.0,0,40,7,0,1,0.487,36.0,Thu,0,58.5,Resolved on time
+REQ-10795,Portal,HR,Procurement,Key client,Standard,31.3,1,8,5,2,1,0.411,58.0,Tue,0,35.9,Resolved on time
+REQ-10796,Email,IT,Procurement,Partner,Low,1.6,1,43,6,0,1,0.364,43.0,Thu,0,30.6,Resolved on time
+REQ-10797,Phone,IT,Hardware,Key client,Urgent,35.5,4,42,4,1,1,0.629,30.0,Fri,1,71.7,Resolved late
+REQ-10798,Chat,Facilities,System issue,Partner,Low,11.6,0,57,9,0,1,0.481,29.0,Thu,1,64.9,Resolved late
+REQ-10799,Phone,Facilities,Procurement,Internal,Low,20.4,1,60,5,2,1,0.032,62.0,Thu,0,34.8,Auto closed
+REQ-10800,Email,Facilities,Access,Internal,Low,2.7,0,39,8,1,1,0.232,24.0,Wed,0,36.1,Resolved on time
+REQ-10801,Email,HR,Data report,Internal,Standard,25.0,1,53,10,0,1,0.154,62.0,Fri,1,67.8,Escalated late
+REQ-10802,Email,Data,Policy query,Internal,Low,22.3,0,27,6,2,1,0.091,39.0,Tue,0,26.7,Resolved on time
+REQ-10803,Email,Finance,System issue,Internal,Standard,21.4,3,53,7,0,1,0.331,15.0,Wed,1,48.8,Resolved late
+REQ-10804,Chat,IT,Hardware,Internal,Standard,2.6,0,34,5,0,1,0.395,64.0,Tue,0,45.1,Resolved on time
+REQ-10805,Portal,IT,Access,Internal,Standard,8.2,0,25,7,0,1,0.233,24.0,Mon,1,60.2,Escalated late
+REQ-10806,Email,Facilities,Policy query,Key client,Low,19.6,2,39,13,0,1,0.397,26.0,Thu,0,27.9,Auto closed
+REQ-10807,Chat,IT,Policy query,Internal,Low,30.8,0,62,9,0,1,0.181,35.0,Mon,1,53.2,Resolved late
+REQ-10808,Portal,Finance,Procurement,Key client,Standard,7.3,2,45,7,1,1,0.189,38.0,Tue,1,52.5,Resolved late
+REQ-10809,Email,Data,Data report,Key client,Low,7.5,4,63,6,2,1,0.499,45.0,Thu,1,61.2,Escalated late
+REQ-10810,Email,IT,Procurement,Internal,Standard,18.7,3,32,7,2,1,0.275,63.0,Tue,1,59.3,Resolved late
+REQ-10811,Portal,IT,Payroll,Internal,Standard,59.8,1,57,8,1,1,0.203,62.0,Fri,1,71.9,Resolved late
+REQ-10812,Phone,Data,Access,Key client,Standard,9.3,5,33,7,0,1,0.09,29.0,Mon,1,65.5,Escalated late
+REQ-10813,Email,Finance,Access,Key client,Low,11.4,3,45,9,0,1,0.221,29.0,Wed,0,39.6,Resolved on time
+REQ-10814,Chat,IT,Hardware,Internal,Standard,10.2,3,45,6,1,0,0.208,59.0,Mon,0,43.1,Resolved on time
+REQ-10815,Chat,Data,System issue,Internal,Low,13.8,0,51,6,1,1,0.77,22.0,Mon,0,33.8,Resolved on time
+REQ-10816,Chat,Data,Access,Key client,Standard,32.3,1,46,8,1,0,0.244,39.0,Thu,1,79.3,Escalated late
+REQ-10817,Email,Finance,Hardware,Key client,Low,14.3,1,32,5,2,0,0.398,75.0,Mon,1,54.4,Resolved late
+REQ-10818,Email,Facilities,Procurement,Internal,Urgent,63.4,1,54,9,1,1,0.109,31.0,Fri,1,70.8,Escalated late
+REQ-10819,Chat,HR,Hardware,Internal,Standard,16.2,0,66,7,1,1,0.038,17.0,Wed,1,48.8,Resolved late
+REQ-10820,Email,IT,Access,External supplier,Low,34.3,1,34,4,1,1,0.355,24.0,Wed,1,48.9,Resolved late
+REQ-10821,Portal,Finance,Data report,Internal,Low,12.1,0,16,8,0,0,0.234,25.0,Fri,1,51.6,Escalated late
+REQ-10822,Phone,HR,Payroll,Partner,Standard,5.4,0,49,4,0,1,0.136,23.0,Tue,0,30.6,Resolved on time
+REQ-10823,Email,Facilities,Data report,Internal,Low,14.3,0,37,9,0,0,0.189,34.0,Tue,1,48.5,Resolved late
+REQ-10824,Phone,Data,Policy query,Internal,Low,21.6,1,40,7,0,1,0.198,103.0,Wed,1,58.4,Resolved late
+REQ-10825,Chat,IT,Access,Internal,Urgent,8.3,2,50,11,4,1,0.317,50.0,Thu,1,56.3,Escalated late
+REQ-10826,Phone,Finance,Policy query,Internal,Standard,30.9,1,36,10,0,1,0.339,35.0,Fri,0,60.7,Resolved on time
+REQ-10827,Portal,IT,Policy query,External supplier,Low,10.6,2,38,5,1,1,0.299,37.0,Wed,1,50.5,Escalated late
+REQ-10828,Chat,Data,System issue,Internal,Standard,6.5,4,41,3,3,1,0.445,27.0,Tue,1,60.8,Resolved late
+REQ-10829,Portal,IT,Data report,External supplier,Low,56.1,2,63,6,1,0,0.504,37.0,Fri,1,65.2,Resolved late
+REQ-10830,Phone,Finance,Data report,Internal,Urgent,8.0,1,42,5,0,1,0.277,73.0,Wed,1,49.0,Escalated late
+REQ-10831,Phone,Finance,Data report,Partner,Low,10.4,1,25,11,0,0,0.176,40.0,Fri,0,49.9,Resolved on time
+REQ-10832,Phone,HR,System issue,External supplier,Standard,24.0,1,25,7,0,0,0.165,62.0,Wed,1,67.3,Escalated late
+REQ-10833,Email,Facilities,Access,Key client,Standard,11.8,1,44,9,1,1,0.135,57.0,Mon,1,73.3,Resolved late
+REQ-10834,Email,Facilities,Policy query,Internal,Low,6.7,3,26,7,0,1,0.102,100.0,Fri,0,34.2,Auto closed
+REQ-10835,Email,Finance,Data report,Key client,Low,9.6,0,20,7,2,1,0.142,57.0,Thu,0,25.7,Resolved on time
+REQ-10836,Portal,Facilities,System issue,Key client,Standard,46.6,1,51,7,1,1,0.114,97.0,Tue,1,50.1,Resolved late
+REQ-10837,Portal,Data,Payroll,External supplier,Urgent,22.1,1,52,10,1,0,0.465,64.0,Fri,1,68.5,Resolved late
+REQ-10838,Portal,HR,Access,Internal,Standard,25.0,5,37,8,1,0,0.278,45.0,Mon,0,28.0,Auto closed
+REQ-10839,Portal,Finance,Procurement,Internal,Standard,18.1,5,46,5,1,0,0.291,25.0,Fri,1,48.1,Resolved late
+REQ-10840,Phone,IT,Procurement,Internal,Standard,20.3,6,45,11,1,1,0.164,61.0,Wed,1,56.7,Resolved late
+REQ-10841,Chat,Facilities,Procurement,Key client,Standard,11.1,1,50,7,0,1,0.122,64.0,Wed,0,31.3,Resolved on time
+REQ-10842,Email,Finance,Payroll,External supplier,Standard,16.6,1,50,7,2,1,0.071,65.0,Mon,0,47.8,Resolved on time
+REQ-10843,Phone,HR,Hardware,Internal,Standard,2.3,1,8,2,0,0,0.221,7.0,Mon,0,29.3,Resolved on time
+REQ-10844,Phone,IT,Procurement,Partner,Standard,28.2,3,39,9,2,1,0.349,,Thu,1,59.3,Resolved late
+REQ-10845,Portal,Data,Payroll,External supplier,Low,11.1,0,49,8,0,1,0.447,49.0,Wed,0,31.5,Resolved on time
+REQ-10846,Email,HR,Policy query,Internal,Urgent,5.8,3,36,8,1,1,0.148,32.0,Mon,0,42.4,Resolved on time
+REQ-10847,Phone,Facilities,Access,Internal,Low,17.3,4,43,7,0,1,0.229,29.0,Thu,1,53.9,Resolved late
+REQ-10848,Chat,IT,Payroll,Key client,Low,13.1,1,53,6,1,1,0.257,26.0,Thu,0,35.6,Resolved on time
+REQ-10849,Phone,Data,Hardware,Key client,Standard,27.5,0,43,7,2,1,0.411,15.0,Tue,1,55.3,Resolved late

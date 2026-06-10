@@ -1,0 +1,3 @@
+model,precision_pos,recall_pos,f1_pos,accuracy,roc_auc
+Tuned Logistic Regression,0.696,0.619,0.655,0.615,0.654
+Tuned Random Forest,0.677,0.667,0.672,0.615,0.63
