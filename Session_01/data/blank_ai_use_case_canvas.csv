@@ -1,8 +1,0 @@
-field,prompt,your_notes
-Business process,What workflow decision or task could be improved?,
-Data inputs,What data already exists? Who owns it?,
-Model approach,"Predictive ML, GenAI, both, or neither? Why?",
-Interface,How would a colleague actually use the output?,
-Evaluation,What metric or human review would prove value?,
-Deployment,Where would it run and how would it be maintained?,
-Governance,"What privacy, fairness, safety, or accountability risks exist?",
